@@ -1,0 +1,4462 @@
+"Line Number","Keyword","Frequency"
+"3786","social sciences",82
+"3985","sustainability",55
+"280","Arboretum",52
+"332","arts division",47
+"496","blumenthal",44
+"1604","galloway",43
+"1349","environmental studies",34
+"743","chancellor",33
+"324","arts",30
+"577","budget",30
+"1988","humanities",27
+"1066","David Haussler",24
+"185","alumni",22
+"689","casfs",22
+"690","CASFS",22
+"1764","grateful dead archive",22
+"3311","psychology",21
+"3561","Sandra Faber",21
+"2481","literature",20
+"303","art",18
+"397","Baskin School of Engineering",18
+"2455","Lick Observatory",18
+"903","computer game design",17
+"153","agroecology",16
+"4083","The Farm",16
+"719","Center for Games and Playable Media",15
+"1402","exoplanets",15
+"1442","farm",15
+"1412","extrasolar planets",14
+"1445","farm and garden",14
+"1478","film",14
+"259","anthropology",13
+"840","climate change",13
+"1444","farm & garden",13
+"1917","history",13
+"3227","poetry",13
+"895","community supported agriculture",12
+"1162","diversity",12
+"3617","SCIPP",12
+"3679","Seymour Center",12
+"648","cancer genomics",11
+"1134","digital arts and new media",11
+"1307","Emily Brodsky",11
+"1480","film and digital media",11
+"1721","global warming",11
+"3416","research",11
+"3601","Science Communication Program",11
+"4100","theater arts",11
+"269","appointment",10
+"1040","DANM",10
+"1243","economics",10
+"1335","Enrico Ramirez-Ruiz",10
+"1343","environmental",10
+"1584","fundraising",10
+"1629","Gary Griggs",10
+"2802","music department",10
+"1029","Daniel Costa",9
+"1423","faculty",9
+"1486","film department",9
+"1992","humanities division",9
+"2451","library",9
+"3023","organic farming",9
+"3111","Paul Koch",9
+"3797","sociology",9
+"4068","Terrie Williams",9
+"4211","UCOP",9
+"905","computer games",8
+"1157","distant galaxies",8
+"1249","Ed Green",8
+"1255","education",8
+"1661","genomics",8
+"1663","Genomics Institute",8
+"1749","Graduate Research Symposium",8
+"2262","Jonathan Fortney",8
+"2799","music",8
+"2966","Observatories",8
+"3001","open enrollment",8
+"3401","regents",8
+"3595","scholarships",8
+"3899","Steve Vogt",8
+"3904","Steven Vogt",8
+"3937","students",8
+"3990","sustainable agriculture",8
+"4099","theater",8
+"4118","Thorne Lay",8
+"129","Adina Paytan",7
+"308","art department",7
+"309","art exhibitions",7
+"544","Brent Haddad",7
+"879","commencement",7
+"1004","cuts",7
+"1133","digital arts",7
+"1174","documentary films",7
+"1371","ethics",7
+"1463","feminist studies",7
+"1592","Gabriel Elkaim",7
+"1606","game design",7
+"1824","habitable planet",7
+"1918","history department",7
+"2153","Jacob Rosen",7
+"2222","JFAST",7
+"2271","Josh Stuart",7
+"2900","news",7
+"3243","politics",7
+"3326","Puragra Guhathakurta",7
+"3638","sea otters",7
+"3748","Slawek Tulaczyk",7
+"3846","staff",7
+"4149","Tohoku earthquake",7
+"4284","vice chancellor",7
+"4345","welcome",7
+"131","administrative message",6
+"222","Andrew Fisher",6
+"375","awards",6
+"521","books",6
+"540","Brenda Romero",6
+"710","center for agroecology and sustainable food systems",6
+"737","CGHub",6
+"828","Claire Max",6
+"933","contact theory",6
+"991","CRSS",6
+"1085","dean",6
+"1279","elephant seals",6
+"1342","environment",6
+"1536","Foundation",6
+"1554","Francis Nimmo",6
+"1627","Garth Illingworth",6
+"1762","grateful dead",6
+"1766","Grateful Dead Archive",6
+"1782","green",6
+"1996","humanities news",6
+"2197","Jerry Nelson",6
+"2213","jewish studies",6
+"2589","Marm Kilpatrick",6
+"2706","Michael Mateas",6
+"3039","Our University",6
+"3365","rankings",6
+"3366","Raphael Kudela",6
+"3422","Research Review Day",6
+"3457","Richard Green",6
+"3492","robotics",6
+"3659","seismology",6
+"4219","undergraduate",6
+"4223","undergraduate research",6
+"4408","women in science",6
+"216","ancient DNA",5
+"305","art and science",5
+"323","artists",5
+"333","Arts Division",5
+"389","Barry Sinervo",5
+"497","Blumenthal",5
+"650","Cancer Genomics Hub",5
+"798","chris wilmers",5
+"975","creative writing",5
+"996","CSA",5
+"1010","DAG",5
+"1065","david haussler",5
+"1272","election",5
+"1352","envision",5
+"1370","Ethan Miller",5
+"1381","evc",5
+"1382","EVC",5
+"1530","forum",5
+"1632","Gary Young",5
+"1791","Greg Laughlin",5
+"1964","Howard Haber",5
+"1972","Hubble Space Telescope",5
+"2241","Joel Primack",5
+"2275","Joshua Stuart",5
+"2313","Kathryn Sullivan",5
+"2317","Kathy Sullivan",5
+"2358","kliger",5
+"2365","KP2",5
+"2637","McHenry Library",5
+"2642","mechatronics",5
+"2701","Michael Dine",5
+"2781","move-in",5
+"2864","Neanderthal genome",5
+"2926","NOAA",5
+"3139","personalized medicine",5
+"3201","Piero Madau",5
+"3215","planning",5
+"3234","poets",5
+"3436","retirement",5
+"3522","Russell Flegal",5
+"3532","SAB",5
+"3596","science",5
+"3609","Science Notes",5
+"3671","sesnon gallery",5
+"3735","Silicon Valley Business Journal",5
+"3777","social documentation",5
+"3837","spring plant sale",5
+"3843","SSRC",5
+"3976","survey",5
+"4195","tuition",5
+"4231","United Way",5
+"4289","video",5
+"141","advocacy",4
+"201","American Academy of Arts and Sciences",4
+"245","anna tsing",4
+"352","astronomy",4
+"377","b. ruby rich",4
+"390","BAS",4
+"474","bioinformatics",4
+"588","business and administrative services",4
+"645","campus provost",4
+"688","Casey Moore",4
+"707","CenSEPS",4
+"718","Center for Entrepreneurship",4
+"803","Christina Ravelo",4
+"886","community",4
+"896","Community Supported Agriculture",4
+"941","coral reefs",4
+"979","crime bulletin",4
+"1000","culture",4
+"1022","dana frank",4
+"1052","data storage",4
+"1105","demonstration",4
+"1107","Demonstration Advisory Group",4
+"1173","documentary film",4
+"1202","dream act",4
+"1330","engineering",4
+"1339","entrepreneurship",4
+"1375","ethnic studies",4
+"1388","evolution",4
+"1436","fall quarter",4
+"1490","film news",4
+"1512","flu shots",4
+"1617","games and playable media",4
+"1628","Gary Glatzmaier",4
+"1667","george blumenthal",4
+"1728","goals",4
+"1746","graduate",4
+"1751","graduate students",4
+"1785","green honor roll",4
+"1826","habitable zone",4
+"1847","harmful algal blooms",4
+"1864","Hawaiian monk seal",4
+"1869","health care",4
+"1930","Holger Schmidt",4
+"1986","human rights",4
+"2069","institute of arts and sciences",4
+"2215","Jewish Studies",4
+"2300","karen yamashita",4
+"2425","leadership",4
+"2550","Marc Mangel",4
+"2602","Martin Luther King Jr. Memorial Convocation",4
+"2666","memoriam",4
+"2775","Mount Hamilton",4
+"2809","Nader Pourmand",4
+"2836","national academy of education",4
+"2860","NCWIT",4
+"2908","Nicholas Meriwether",4
+"2929","Nobuhiko Kobayashi",4
+"2934","Norris Lecture",4
+"3005","opera",4
+"3021","organic agriculture",4
+"3038","our university",4
+"3040","outstanding faculty award",4
+"3146","Pete Raimondi",4
+"3153","Peter Raimondi",4
+"3170","philanthropy",4
+"3174","phillip hammack",4
+"3197","physics",4
+"3276","Princeton Review",4
+"3298","protest",4
+"3306","provost",4
+"3319","puma project",4
+"3340","race",4
+"3413","renewable energy",4
+"3421","research influence",4
+"3560","sandra faber",4
+"3592","scholarship benefit dinner",4
+"3688","shakespeare",4
+"3707","share",4
+"3750","Sloan Fellow",4
+"3778","social documentation program",4
+"3781","social justice",4
+"3785","social psychology",4
+"3815","southern sea otter",4
+"3826","spencer fellow",4
+"3857","STARS",4
+"3916","strategic",4
+"3963","super-Earth",4
+"3980","Susan Strome",4
+"3989","sustainable",4
+"4076","thank you",4
+"4102","theater arts department",4
+"4135","Tim Tinker",4
+"4140","Times Higher Education",4
+"4201","Tyrus Miller",4
+"4203","UARC",4
+"4208","UCO",4
+"4209","UCO/Lick",4
+"4212","ucop our university",4
+"4221","undergraduate education",4
+"4292","video games",4
+"4297","violence",4
+"4327","water",4
+"4365","white-nose syndrome",4
+"4429","Xavier Prochaska",4
+"73","A Cappella Records",3
+"92","Abe Seiden",3
+"93","Abraham Seiden",3
+"115","access",3
+"128","adaptive optics",3
+"130","administration",3
+"183","allan chadwick",3
+"193","Alumni Weekend",3
+"273","APS Fellow",3
+"312","Art Levinson",3
+"315","Art Ramirez",3
+"354","astrophysics",3
+"361","ATLAS",3
+"370","authors",3
+"402","bats",3
+"443","Beth Shapiro",3
+"454","big data",3
+"471","biodiversity",3
+"486","black holes",3
+"599","Cal Teach",3
+"602","California Academy of Sciences",3
+"628","california shakespeare festivals",3
+"634","Camilla Forsberg",3
+"643","campus elections",3
+"646","cancer",3
+"651","cancer research",3
+"653","CANDELS",3
+"683","cary fukunaga",3
+"700","CBSE",3
+"711","Center for Agroecology and Sustainable Food Systems",3
+"725","Center for Research in Storage Systems",3
+"766","Chemical Screening Center",3
+"778","china",3
+"787","chocolate festival",3
+"796","chris darimont",3
+"799","Chris Wilmers",3
+"853","Coastal Biology building",3
+"857","Coastal Science Campus",3
+"862","Colleen Reichmuth",3
+"904","computer game design program",3
+"906","computer gaming",3
+"910","computer science",3
+"931","Constantine Panunzio Distinguished Emeriti Award",3
+"953","cosmology",3
+"954","cougar",3
+"960","coursera",3
+"961","cowell",3
+"984","critical race and ethnic studies",3
+"1014","Dan Costa",3
+"1025","dance",3
+"1031","Daniel Fabrycky",3
+"1035","daniel press",3
+"1068","David Koo",3
+"1080","day of action",3
+"1124","Dickens Project",3
+"1141","digital humanities",3
+"1147","dining services",3
+"1154","disposition day RIMS",3
+"1163","Diversity",3
+"1172","documentary",3
+"1195","Doug Erickson",3
+"1241","ecology and evolutionary biology",3
+"1288","Elkhorn Slough",3
+"1292","elliot aronson",3
+"1410","extinction",3
+"1430","fairlie",3
+"1432","fall",3
+"1433","fall 2011",3
+"1467","Fermi Gamma-ray Space Telescope",3
+"1495","financial aid",3
+"1526","forensic",3
+"1570","Friends of Long Marine Lab",3
+"1590","gabe zimmerman",3
+"1593","gabriel zimmerman",3
+"1599","galaxy evolution",3
+"1601","galaxy mergers",3
+"1618","Games and Playable Media",3
+"1631","gary young",3
+"1652","Genome 10K",3
+"1659","genome sequencing",3
+"1671","george hitchcock",3
+"1744","governor",3
+"1750","graduate student research",3
+"1754","graduation",3
+"1770","grateful dead news",3
+"1772","gratitude",3
+"1774","great earthquakes",3
+"1835","Halliday Lecture",3
+"1842","harassment",3
+"1854","Harry Noller",3
+"1857","harvest festival",3
+"1866","hay barn",3
+"1903","Higgs boson",3
+"1920","history of art and visual culture",3
+"1932","holiday party",3
+"1949","honduras",3
+"1950","Honduras",3
+"1993","Humanities Division",3
+"2017","Ian Garrick-Bethell",3
+"2030","immigration",3
+"2040","india",3
+"2041","India",3
+"2056","innovation",3
+"2073","institute of the arts and sciences",3
+"2086","interim",3
+"2100","investigation",3
+"2107","IODP",3
+"2121","Irwin Scholars",3
+"2139","J. J. Garcia-Luna-Aceves",3
+"2161","James Gill",3
+"2180","Jason Nielsen",3
+"2186","Jean Langenheim",3
+"2217","jewish studies program",3
+"2218","Jewish studies program",3
+"2226","Jim Kent",3
+"2230","Jim Whitehead",3
+"2256","John Thompson",3
+"2297","Karen Ottemann",3
+"2299","karen washington",3
+"2320","Kavli Prize",3
+"2345","Kepler mission",3
+"2348","kerr",3
+"2350","Kevin Beggs",3
+"2391","language program",3
+"2401","laser talks",3
+"2404","latin american and latino studies",3
+"2405","latin American and latino studies",3
+"2431","lee",3
+"2448","LHC",3
+"2459","life lab",3
+"2467","linguistics",3
+"2482","literature department",3
+"2497","Long Marine Lab",3
+"2513","lunar farside highlands",3
+"2523","M31",3
+"2529","Mad Men",3
+"2553","march 1",3
+"2580","Mark Akeson",3
+"2581","Mark Carr",3
+"2584","Mark Krumholz",3
+"2634","mchenry",3
+"2649","medical robotics",3
+"2683","message",3
+"2703","Michael Isaacson",3
+"2776","mountain lion",3
+"2804","Music of the Spheres",3
+"2808","Myra Finkelstein",3
+"2814","nanopipette",3
+"2815","nanopore",3
+"2819","nanotechnology",3
+"2830","NAS",3
+"2847","National Medal of Science",3
+"2852","natural history",3
+"2890","new queer cinema",3
+"2927","Noah Wardrip-Fruin",3
+"2968","ocean acidification",3
+"3017","optofluidics",3
+"3087","parking",3
+"3088","parking permits",3
+"3100","pat zavella",3
+"3158","Peter Young",3
+"3176","philosophy",3
+"3183","photography",3
+"3193","physical and biological sciences",3
+"3224","poet laureate",3
+"3232","poetry news",3
+"3271","Primary Care Physician Award",3
+"3318","puma",3
+"3334","quarter",3
+"3359","Rainbow Theater",3
+"3420","research funding",3
+"3428","retention",3
+"3451","ribosome",3
+"3485","Robert Irion",3
+"3491","robotic surgery",3
+"3499","Roger Linington",3
+"3533","SACNAS",3
+"3538","sahni",3
+"3611","Science Sunday",3
+"3630","sea level rise",3
+"3634","sea otter population",3
+"3662","senate",3
+"3680","Seymour Marine Discovery Center",3
+"3699","shakespeare theater",3
+"3752","Sloan Research Fellowship",3
+"3784","social psychologist",3
+"3883","stephen bruce",3
+"3891","steve bruce",3
+"3894","steve gliessman",3
+"3917","strategic planning",3
+"3923","Student Achievement Week",3
+"3936","Student Volunteer Center",3
+"4029","taps",3
+"4034","task force",3
+"4036","TCGA",3
+"4057","television",3
+"4078","The Campaign for",3
+"4144","TMT",3
+"4166","TOPP",3
+"4210","ucop",3
+"4238","university library",3
+"4244","university relations",3
+"4265","valentino",3
+"4355","West Nile virus",3
+"4397","WISSARD",3
+"4400","women",3
+"4404","women in engineering",3
+"4407","women in physics",3
+"4412","women's club",3
+"4423","World University Rankings",3
+"4426","writers",3
+"4434","Yat Li",3
+"4456","zimride",3
+"13"," humanities",2
+"36","2010",2
+"42","2012",2
+"56","2015",2
+"57","2020",2
+"63","4-20",2
+"64","40 under 40",2
+"68","50",2
+"81","AAAS Fellows",2
+"101","academic film programs",2
+"124","active galactic nuclei",2
+"132","admissions",2
+"136","Adrienne Harrell",2
+"140","advisory site",2
+"154","AGU",2
+"161","alan chadwick",2
+"162","Alan Chadwick Garden",2
+"178","Alexander Sher",2
+"180","alison galloway",2
+"191","alumni volunteer",2
+"228","Andromeda",2
+"237","Angela Davis",2
+"251","Antarctic drilling",2
+"257","anthroplogy",2
+"267","applications",2
+"270","appointments",2
+"271","approval",2
+"274","Aptheker",2
+"279","arboretum",2
+"285","architecture",2
+"299","aronson",2
+"310","art exhibits",2
+"325","arts alumni",2
+"326","arts and entertainment",2
+"334","arts education",2
+"335","arts events",2
+"336","arts news",2
+"343","ASL",2
+"348","assistive technology",2
+"349","astrobiology",2
+"353","astronomy and astrophysics",2
+"356","astrophysics simulations",2
+"360","Atlantic magazine",2
+"378","B. Ruby Rich",2
+"379","b.f. skinner",2
+"391","basketball",2
+"392","baskin",2
+"396","baskin school of engineering",2
+"399","bat disease",2
+"421","ben crow",2
+"423","Benedict Paten",2
+"426","Benjamin A. Gilman International Scholarship",2
+"427","benjamin bratt",2
+"444","bettina aptheker",2
+"448","bias",2
+"452","Big Bang",2
+"461","Bill Atwood",2
+"473","biofuel",2
+"478","biomolecular engineering",2
+"482","Bionics Lab",2
+"489","Blood Drive",2
+"506","boko haram",2
+"509","bombing",2
+"516","book arts",2
+"530","Brandon Southall",2
+"531","brandt",2
+"533","brant",2
+"537","breast cancer",2
+"546","Brett Hall",2
+"568","brown v. board of education",2
+"570","Bruce Lyon",2
+"571","Bruce Margon",2
+"584","Burney Le Boeuf",2
+"592","C-DEBI",2
+"607","California coast",2
+"630","California theater",2
+"636","CAMP",2
+"637","campaign",2
+"674","Carnival Cruz",2
+"678","carolyn dean",2
+"679","Carolyn Porco",2
+"682","Carson Watts",2
+"691","Cassini",2
+"703","celebration",2
+"716","Center for Biomolecular Science and Engineering",2
+"727","Center for Sustainable Energy and Power Systems",2
+"733","Ceph",2
+"744","chancellor blumenthal",2
+"749","Chancellor's Associates",2
+"752","charles dickens",2
+"753","Charles Dickens",2
+"757","Charlie Conroy",2
+"759","Charlie McDowell",2
+"767","chemistry",2
+"779","China",2
+"781","chinese history",2
+"791","cholera biofilms",2
+"795","Chris Crawford",2
+"810","cioc",2
+"812","citation impact",2
+"821","City Year",2
+"822","civil rights",2
+"836","classics",2
+"841","climate conference",2
+"852","Coastal Biology",2
+"864","college 10",2
+"872","college nine",2
+"874","colleges",2
+"893","community service",2
+"894","community studies",2
+"900","Computational Media",2
+"917","condors",2
+"918","condors and lead",2
+"926","Connie Rockosi",2
+"947","Corinne Miller",2
+"952","cosmic web",2
+"955","counsel",2
+"963","Cowell College",2
+"964","Cowell Health Center",2
+"969","craig haney",2
+"977","CRES",2
+"997","CSTAR",2
+"1002","curriculum",2
+"1016","dan friedman",2
+"1020","dan roam",2
+"1024","dana priest",2
+"1044","danny scheie",2
+"1057","Dave Thayer",2
+"1061","David Deamer",2
+"1067","David Huffman",2
+"1072","david talbot",2
+"1073","David Talbot",2
+"1077","day by the bay",2
+"1078","Day by the Bay",2
+"1118","Deutron Kebebew",2
+"1120","development",2
+"1123","dickens project",2
+"1128","Dickens Universe",2
+"1136","Digital Arts and New Media",2
+"1143","digital media",2
+"1166","DNA sequencing",2
+"1168","doctoral",2
+"1178","Don Croll",2
+"1180","Don Rothman",2
+"1187","Donald Smith",2
+"1200","Douglas N. C. Lin",2
+"1209","drought",2
+"1215","dwarf galaxies",2
+"1222","EARTH A New Wild",2
+"1225","earth sciences",2
+"1226","earth summit",2
+"1274","electrical engineering",2
+"1284","elizabeth mckenzie",2
+"1287","Elkaim",2
+"1290","Elkhorn Slough National Estuarine Research Reserve",2
+"1300","emeriti",2
+"1302","emeriti lecture",2
+"1315","employees",2
+"1316","Enceladus",2
+"1319","endangered languages",2
+"1321","endangered species",2
+"1329","engagement",2
+"1340","Entrepreneurship Showcase",2
+"1362","Erik Asphaug",2
+"1364","Erika Zavaleta",2
+"1366","ERIT",2
+"1372","ethics bowl",2
+"1377","Eugene Cota-Robles",2
+"1385","events",2
+"1395","excellence in teaching",2
+"1397","Excellence in Teaching Awards",2
+"1401","exhibitions",2
+"1408","Expressive Intelligence Studio",2
+"1427","faculty research",2
+"1428","Faculty Research Lecture",2
+"1447","farmers market",2
+"1462","feminist critical race and ethnic studies",2
+"1466","Fermi",2
+"1471","fiction",2
+"1473","field quarter",2
+"1507","Flatte Lecture",2
+"1508","flint center",2
+"1510","flowers",2
+"1513","folklorico",2
+"1515","food",2
+"1517","food drive",2
+"1518","food guide",2
+"1541","founders",2
+"1543","founders celebration",2
+"1550","frameline award",2
+"1556","Frank Drake",2
+"1558","Franklin Medal",2
+"1559","frans lanting",2
+"1565","fredrick lieberman",2
+"1568","Friends Foundation International",2
+"1583","funding",2
+"1594","Gabriel Zimmerman",2
+"1598","galaxies",2
+"1600","galaxy formation",2
+"1607","game design program",2
+"1625","garden",2
+"1637","gay marriage",2
+"1657","Genome Browser",2
+"1673","george ow",2
+"1682","Giacomo Bernardi",2
+"1691","giip",2
+"1707","Glenn Millhauser",2
+"1713","global alliance",2
+"1719","Global Oceans Awards",2
+"1756","graffiti",2
+"1763","Grateful Dead",2
+"1778","great recession",2
+"1801","Gretchen Andreasen",2
+"1820","H. pylori",2
+"1822","HAB",2
+"1828","HACK   hackathon",2
+"1831","haiti",2
+"1833","Hal Hyde",2
+"1846","Harland Epps",2
+"1855","Hartmut Sadrozinski",2
+"1861","hate",2
+"1862","haussler",2
+"1870","Health Care Heroes",2
+"1871","Health Center",2
+"1876","Health Sciences",2
+"1884","Helicobacter pylori",2
+"1886","heller drive",2
+"1887","Hellman Fellows",2
+"1888","Hellman Fellows Program",2
+"1912","Hire Education video contest employer employment",2
+"1914","historic district",2
+"1928","Ho'ailona",2
+"1931","holiday",2
+"1937","Hollywood film industry",2
+"1940","holocaust",2
+"1961","housing",2
+"1967","HSI",2
+"1973","Hubble Ultra Deep Field",2
+"1974","HUDF",2
+"1976","Huffman Prize",2
+"1983","Human Genome Project",2
+"1989","Humanities",2
+"1990","humanities awards",2
+"1991","Humanities Dean",2
+"1998","humanities research",2
+"2002","Humboldt Research Award",2
+"2025","IEEE Fellows",2
+"2028","Ilan Benjamin",2
+"2051","Ingrid Parker",2
+"2052","initiatives",2
+"2062","institute for humanities research",2
+"2077","insurrection",2
+"2085","intergroup contact",2
+"2092","international playhouse",2
+"2095","internship",2
+"2110","iPhone app",2
+"2120","irwin scholars",2
+"2127","islamic",2
+"2138","J. Casey Moore",2
+"2141","J. Michael Bishop",2
+"2157","James Davis",2
+"2159","James Estes",2
+"2169","Jane Pinckard",2
+"2194","Jenny Reardon",2
+"2195","Jerry Brown",2
+"2200","Jesse Avshalomov",2
+"2201","jesse thorn",2
+"2223","Jim Estes",2
+"2224","Jim Gill",2
+"2234","Jock Reynolds",2
+"2235","Joe Cox",2
+"2237","joe palca",2
+"2246","john jota leanos",2
+"2249","John Laird",2
+"2253","John Pearse",2
+"2265","Jonathan Zehr",2
+"2276","journalism",2
+"2283","Julia Sweig",2
+"2285","julie guthman",2
+"2286","Julie Packard",2
+"2290","Justin Yeakel",2
+"2310","Kathleen Kay",2
+"2318","Katia Obraczka",2
+"2330","Kelly Peach",2
+"2332","Ken Chen",2
+"2349","Kerstin Wasson",2
+"2361","koch",2
+"2366","KQED",2
+"2374","la mission",2
+"2379","labor",2
+"2381","ladusaw",2
+"2384","Lake Whillans",2
+"2386","LALS",2
+"2410","latino",2
+"2420","layoffs",2
+"2430","lectures",2
+"2452","Library",2
+"2464","linda tropp",2
+"2466","Lindsay Hinck",2
+"2487","living writers series",2
+"2489","lizard extinctions",2
+"2491","lizards",2
+"2494","Loma Prieta",2
+"2498","Long Marine Laboratory",2
+"2509","Luca de Alfaro",2
+"2518","Lydia Zendejas",2
+"2521","m. Brewster Smith",2
+"2522","M. Sanjayan",2
+"2534","maitra lecture",2
+"2537","Malika Bell",2
+"2540","Mandel Lecture",2
+"2545","Manuel Ares",2
+"2548","MARC",2
+"2555","marco barricelli",2
+"2569","marine mammals",2
+"2570","marine microbiology",2
+"2571","marine natural products",2
+"2579","Mark Adams",2
+"2607","Mary Silver",2
+"2610","mascot",2
+"2622","Matthew McCarthy",2
+"2623","Matthew Palm",2
+"2629","mayan",2
+"2672","mercury",2
+"2684","methane",2
+"2687","Mexican Academy of Sciences",2
+"2688","mexican american",2
+"2691","mexican immigrants",2
+"2698","Michael Beck",2
+"2700","Michael Bolte",2
+"2708","michael pollan",2
+"2727","migrants",2
+"2728","Mike Beck",2
+"2736","Milky Way",2
+"2746","mission",2
+"2749","MLK",2
+"2760","monk seal",2
+"2765","moon",2
+"2777","mountain lions",2
+"2780","move in",2
+"2792","museum",2
+"2793","museum of art and history",2
+"2794","Museum of Art and History",2
+"2796","museum of natural history collections",2
+"2805","muslim",2
+"2812","Nancy Abrams",2
+"2813","nanobiopsy",2
+"2834","Nathaniel Deutsch",2
+"2837","National Academy of Sciences",2
+"2843","National Endowment for the Humanities",2
+"2848","national research council",2
+"2856","natural reserves",2
+"2873","network",2
+"2880","new books",2
+"2885","new media",2
+"2893","new year",2
+"2909","Nicholas Shikuma",2
+"2912","Nicole Paiement",2
+"2914","nigeria",2
+"2915","nigerian bombing",2
+"2918","Nikki Giovanni",2
+"2922","nitrogen fixation",2
+"2932","nonresident enrollment",2
+"2941","Novack",2
+"2945","NPR",2
+"2946","NRC",2
+"2949","NSF CAREER Award",2
+"2974","ocean noise",2
+"2990","olga najera-ramirez",2
+"3008","opers recreation",2
+"3014","Optical Society",2
+"3020","organic",2
+"3024","organic vegetables",2
+"3025","orientation",2
+"3042","Outstanding Staff Award",2
+"3048","P.B. Sci. Machine Shop",2
+"3064","Page Smith",2
+"3078","Pan-Cancer Initiative",2
+"3093","Party small",2
+"3105","patricia zavella",2
+"3107","Patrick Fulton",2
+"3112","paul lubeck",2
+"3120","Peace Corps",2
+"3122","peace studies",2
+"3126","pedagogy",2
+"3128","peggy downes baskin",2
+"3131","pension",2
+"3133","peregrin falcons",2
+"3147","peter bratt",2
+"3150","Peter Cook",2
+"3160","pettigrew",2
+"3181","Phokion Kolaitis",2
+"3207","plan",2
+"3208","planet",2
+"3210","planet discovery",2
+"3239","police",2
+"3255","Pradip Mascharak",2
+"3257","predatory bird research group",2
+"3259","Prediction Walk/Run",2
+"3260","prejudice",2
+"3270","preview day",2
+"3272","primordial gas",2
+"3277","principal officers",2
+"3278","principles",2
+"3281","pristine gas",2
+"3288","Project Awesome",2
+"3304","proton therapy",2
+"3312","public",2
+"3324","punjabi language",2
+"3329","QB3",2
+"3330","QB3 Award for Innovation",2
+"3332","Quarry Amphitheater",2
+"3338","QUEST",2
+"3350","raciscm",2
+"3361","Raja Guhathakurta",2
+"3370","Ray Collett",2
+"3371","Ray FASC",2
+"3379","Rebecca Braslau",2
+"3388","recreation",2
+"3392","recycling",2
+"3394","Red Cross",2
+"3395","reduction",2
+"3396","Reduction in time program",2
+"3400","reflection",2
+"3429","rethinking capitalism",2
+"3435","retirememnet",2
+"3440","reunion",2
+"3445","review",2
+"3449","rhythmic entrainment",2
+"3453","Richard A. Cooley Memorial Endowment",2
+"3455","Richard E. Green",2
+"3489","Roberto Manduchi",2
+"3490","robin hunicke",2
+"3493","robotics competition",2
+"3506","Ronan",2
+"3534","sacramento",2
+"3543","sam farr",2
+"3544","Sam Farr",2
+"3551","san francisco",2
+"3559","Sandra Chung",2
+"3562","Sandy Faber",2
+"3569","SAP Open Tennis Tournament",2
+"3576","satellite tags",2
+"3578","Saturn",2
+"3580","satyajit ray",2
+"3588","SCCBG",2
+"3591","scholarship",2
+"3593","Scholarship Benefit Dinner",2
+"3599","science communication",2
+"3621","Scott Brandt",2
+"3622","Scott Lokey",2
+"3628","SDSS-III",2
+"3633","sea otter census",2
+"3635","sea otter recovery",2
+"3641","sea star wasting syndrome",2
+"3646","search",2
+"3651","Sebastiano Cantalupo",2
+"3652","second harvest",2
+"3653","Second Harvest Food Bank",2
+"3666","senior design projects",2
+"3670","sesnon art gallery",2
+"3672","Sesnon Gallery",2
+"3673","Seth Rubin",2
+"3695","shakespeare festivals",2
+"3697","shakespeare shakespeare festivals",2
+"3728","sikh and punjabi studies",2
+"3729","Sikh and Punjabi studies",2
+"3732","Sikhs",2
+"3734","Silicon Valley",2
+"3736","Silicon Valley Initiatives",2
+"3739","singer-songwriters",2
+"3742","SIP",2
+"3751","Sloan Foundation",2
+"3757","Slug Stand-Up",2
+"3768","smith renaissance society",2
+"3769","smith society",2
+"3782","social media",2
+"3783","social networks",2
+"3798","Sofie Salama",2
+"3803","solar energy",2
+"3811","Sophía García-Robles",2
+"3824","Special Collections",2
+"3833","spring",2
+"3838","Spring Plant Sale",2
+"3841","Sri Kurniawan",2
+"3849","staff forum",2
+"3861","state of minds",2
+"3870","Stefano Profumo",2
+"3871","STEM",2
+"3875","STEM diversity",2
+"3888","Stephen Petersen",2
+"3895","steve mckay",2
+"3896","Steve Ritz",2
+"3902","Steven Ritz",2
+"3910","storage systems",2
+"3924","student affairs",2
+"3930","Student Regent",2
+"3931","student regent recruitment",2
+"3933","Student Research and Education Awards",2
+"3945","Sue Carter",2
+"3954","summer internship program",2
+"3957","summer shakespeare festivals",2
+"3964","supercomputer lab for undergrads",2
+"3979","susan solomon",2
+"3986","sustainability studies",2
+"3994","Sutter Maternity & Surgery Center",2
+"4020","taking  home",2
+"4030","TAPS",2
+"4038","teaching",2
+"4047","technology",2
+"4052","Ted Goldstein",2
+"4063","tennis",2
+"4071","Tesla Jeltema",2
+"4073","testoni",2
+"4082","the farm",2
+"4093","The Odyssey of KP2",2
+"4104","theater department",2
+"4112","Thirty Meter Telescope",2
+"4114","thomas f. pettigrew",2
+"4120","threat",2
+"4141","Titan",2
+"4146","tobias wolff",2
+"4161","Tony Hill",2
+"4164","top 100",2
+"4175","traffic",2
+"4177","traffic delays",2
+"4178","transfer students",2
+"4198","tv",2
+"4213","uctv",2
+"4237","university libraries",2
+"4239","University Library",2
+"4246","update",2
+"4272","vegan",2
+"4274","Venice",2
+"4287","vice provost",2
+"4291","video game design",2
+"4298","violence against women",2
+"4310","Volunteer",2
+"4314","VPDUE",2
+"4320","Walter Bray",2
+"4325","washington post",2
+"4346","welcomes new students",2
+"4360","whistleblower",2
+"4375","William Atwood",2
+"4389","winifred frick",2
+"4391","Winifred Frick",2
+"4394","wireless networking",2
+"4403","women in computer science",2
+"4409","women in technology",2
+"4411","Women of Influence",2
+"4416","women's studies",2
+"4436","year end",2
+"4441","Yi Zuo",2
+"4442","yiddish",2
+"4450","yudof",2
+"4455","zero waste",2
+"4461","zwart",2
+"1"," arts",1
+"2"," arts division",1
+"3"," astronomy",1
+"4"," Baskin School of Engineering",1
+"5"," blogs",1
+"6"," education",1
+"7"," Education",1
+"8"," environmental studies",1
+"9"," fiber optic",1
+"10"," graduate divisiion",1
+"11"," history",1
+"12"," holidays",1
+"14"," literature",1
+"15"," marketing",1
+"16"," regents",1
+"17"," scholarships",1
+"18"," Social Documentation",1
+"19"," sociology",1
+"20"," sustainable agriculture",1
+"21"," washington",1
+"22",".  social sciences",1
+"23",". poetry",1
+"24",". theater arts",1
+"25","'60s",1
+"26","'s LGBT Task Force",1
+"27","'s Science Communication Program",1
+"28","'s Water Protection Policy",1
+"29","10 Grads in 10 Days",1
+"30","10x10",1
+"31","1960s",1
+"32","1962",1
+"33","2009 theater awards",1
+"34","2009-10Alumni Association and Staff Advisory Board Outstanding Staff Award",1
+"35","2009-2010 Title IX Advisory Council",1
+"37","2010 EAP Undergraduate Research Award in Humanities",1
+"38","2010 Staff Picnic",1
+"39","2010-11",1
+"40","2010-11 academic year",1
+"41","2011 Distinguished Service Award Recipient.",1
+"43","2012 Sumatra earthquake",1
+"44","2012-13",1
+"45","2012-13 academic year",1
+"46","2012Zero1 Biennial",1
+"47","2013 guggenheim awards",1
+"48","2013 NEH grants",1
+"49","2014",1
+"50","2014 acls public fellows",1
+"51","2014 emmy nominations",1
+"52","2014 emmys",1
+"53","2014 Grammny nominations",1
+"54","2014 guggenheim fellows",1
+"55","2014 poetry prizes",1
+"58","32nd annualEmmy Awards",1
+"59","3D display technology",1
+"60","3D television",1
+"61","3D TV",1
+"62","3D+2D TV",1
+"65","45 years",1
+"66","45+5",1
+"67","45th anniversary",1
+"69","50th",1
+"70","50th anniversary",1
+"71","50th anniversary events",1
+"72","700 Sundays",1
+"74","A Home in Tibet",1
+"75","A Village Called versailles",1
+"76","a. marm kilpatrick",1
+"77","A. Marm Kilpatrick",1
+"78","A. Peter Young",1
+"79","AAAS",1
+"80","AAAS Fellow",1
+"82","aarhus university",1
+"83","Aaron A. Reed",1
+"84","Aaron Reed",1
+"85","Aaron Romanowsky",1
+"86","aaronette white",1
+"87","AAS",1
+"88","abadi",1
+"89","abby brown",1
+"90","ABC Islands bears",1
+"91","ABC Islands brown bears",1
+"94","Abuoali Arash Mohajerinejad",1
+"95","academic",1
+"96","academic affairs",1
+"97","academic books",1
+"98","Academic Business Officer Group",1
+"99","academic creative writing programs",1
+"100","academic diversity",1
+"102","academic jewish studies programs",1
+"103","academic poetry programs",1
+"104","academic scholarships",1
+"105","academic senate",1
+"106","Academic Senate",1
+"107","academic social justice programs",1
+"108","academic writing programs",1
+"109","academics",1
+"110","academy",1
+"111","academy awards",1
+"112","academy awards news",1
+"113","academy of arts and sciences",1
+"114","accepted",1
+"116","achieve",1
+"117","achievement",1
+"118","Acinetobacter baumannii",1
+"119","ACLS Fellowship",1
+"120","Acquire",1
+"121","ACS Fellow",1
+"122","Acterra",1
+"123","acting",1
+"125","ad-hoc wireless networks",1
+"126","Adam Mieuli",1
+"127","adam millard-ball",1
+"133","admissions data",1
+"134","Adrian Burgueno",1
+"135","Adriane Steinacker",1
+"137","Adrienne Rich",1
+"138","Advanced Studies Laboratories",1
+"139","advertisement",1
+"142","aeroecology",1
+"143","affirmative action",1
+"144","Affordable Colleges Online",1
+"145","africa",1
+"146","africa expert",1
+"147","africa scholar",1
+"148","african american",1
+"149","African American identity",1
+"150","african-american",1
+"151","aging research",1
+"152","AGORA",1
+"155","AGU Fellow",1
+"156","Ahmet Ali Yanik",1
+"157","AIA",1
+"158","AIDS vaccine",1
+"159","air and space museum",1
+"160","Akira Nagamine",1
+"163","alan christy",1
+"164","Alan Christy",1
+"165","Alastra",1
+"166","Albert Camus",1
+"167","Albert Camus centennial",1
+"168","Alec Webster",1
+"169","Alejandra Vargas",1
+"170","alert",1
+"171","alewife",1
+"172","Alex Belisario",1
+"173","alex de grassi",1
+"174","Alex Grillo",1
+"175","Alex's Lemonade Stand",1
+"176","alex's lemondade stand.",1
+"177","alexander gonzalez",1
+"179","Alis Deason",1
+"181","Alive!",1
+"182","all-optical switch",1
+"184","allocation",1
+"186","alumni and friends night",1
+"187","Alumni Association Scholarship",1
+"188","alumni regent",1
+"189","alumni Regent",1
+"190","Alumni Reunion Weekend",1
+"192","alumni weekend",1
+"194","alumnus",1
+"195","alvarez",1
+"196","Alyson Fletcher",1
+"197","Amah Mutsun",1
+"198","amber mace",1
+"199","Amborella",1
+"200","american academy of arts and sciences",1
+"202","American Academy of Forensic Sciences",1
+"203","American Chemical Society",1
+"204","american composers",1
+"205","American Indian Resource Center",1
+"206","American pika",1
+"207","American Sign Language",1
+"208","american studies",1
+"209","American Taxpayer Relief Act of 2012",1
+"210","americana",1
+"211","americas media initiative",1
+"212","AmeriCorps",1
+"213","AMGEN",1
+"214","amnesic shellfish poisoning",1
+"215","AMS Fellows",1
+"217","Ancient Egypt",1
+"218","ancient horse",1
+"219","and Sentinel editor Gordon Scotchy Sinclair",1
+"220","and VPAA",1
+"221","Andreas Merkl",1
+"223","andrew lam",1
+"224","andrew mathews",1
+"225","andrew revkin",1
+"226","Andrew Revkin",1
+"227","Android app",1
+"229","Andromeda galaxy",1
+"230","Andy Fisher",1
+"231","Andy Hospodor",1
+"232","andy revkin",1
+"233","Andy Roddick",1
+"234","andy samberg",1
+"235","Angel Island",1
+"236","angela davis",1
+"238","Angela Wray",1
+"239","Anger Management",1
+"240","animation",1
+"241","anit-semitism",1
+"242","anita hill",1
+"243","Anna Deavere Smith",1
+"244","anna sophie loewenberg",1
+"246","annie drevno",1
+"247","annie's homegrown",1
+"248","anniversary",1
+"249","Ano Nuevo Island",1
+"250","ant farm",1
+"252","Antarctic Ice Sheet",1
+"253","Antarctica",1
+"254","Antarctica Dry Valleys",1
+"255","antenna farm records",1
+"256","Anthony Fink",1
+"258","anthropocene",1
+"260","antibiotic resistance",1
+"261","antibiotic screening",1
+"262","AO microscopy",1
+"263","APA",1
+"264","apa award",1
+"265","APF telescope",1
+"266","Apple",1
+"268","applied economics and finance",1
+"272","april in  music",1
+"275","aquifer",1
+"276","arab culture",1
+"277","Arab films",1
+"278","Arabic music",1
+"281","Arboretum endowment",1
+"282","Arborteum",1
+"283","architect",1
+"284","architect competition",1
+"286","architecture news",1
+"287","archival storage",1
+"288","archtecture news",1
+"289","ARCS",1
+"290","ARCS Foundation",1
+"291","arctic ice",1
+"292","arctic seals",1
+"293","Arenaria paludicola",1
+"294","Ares",1
+"295","arizona",1
+"296","Arizona",1
+"297","Arizona immigration law",1
+"298","Arnav Jhala",1
+"300","Aronson",1
+"301","ARPANET",1
+"302","ARPES",1
+"304","art alumni",1
+"306","art and science museums",1
+"307","art and the environment",1
+"311","art exhitions",1
+"313","art news ",1
+"314","art pearl",1
+"316","art scholarships",1
+"317","art-science",1
+"318","Arthur Ramirez",1
+"319","artificial intelligence",1
+"320","artificial retina",1
+"321","Artificial Retina Project",1
+"322","artist",1
+"327","arts and humanities",1
+"328","arts and sciences news",1
+"329","arts and technology",1
+"330","arts at  arts news",1
+"331","arts divisioin",1
+"337","ashkon davaran",1
+"338","Asian",1
+"339","asian america",1
+"340","asian american studies",1
+"341","asian arts",1
+"342","Asian Studies",1
+"344","ASP",1
+"345","Assemblathon",1
+"346","Assembly Health Committee",1
+"347","assistance",1
+"350","astronomical optics",1
+"351","Astronomical Society of the Pacific",1
+"355","astrophysics internships. computational astrophysics",1
+"357","astrophysics supercomputer",1
+"358","at  Humanities division",1
+"359","atlantic magazine",1
+"362","atlas of global inequalities",1
+"363","atmospheric carbon dioxide",1
+"364","atomic spectroscopy chip",1
+"365","atomic structure of the ribosome",1
+"366","ATRA",1
+"367","Aurora Learned",1
+"368","Australopithecus",1
+"369","Australopithecus sediba",1
+"371","Autumn Johnson",1
+"372","Avian Phylogenomics",1
+"373","Avril Thorne",1
+"374","award",1
+"376","b ruby rich",1
+"380","Baba Ram Das",1
+"381","bald eagles",1
+"382","Banff Mountain Film Festival",1
+"383","bang for your buck",1
+"384","banking",1
+"385","Bar Smith",1
+"386","barbara rogoff",1
+"387","barbara rose johnston",1
+"388","baroque festival",1
+"393","Baskin Alumni Advisory Council",1
+"394","Baskin Engineering",1
+"395","Baskin Engineering Building",1
+"398","bat",1
+"400","bat pollinators",1
+"401","bat populations",1
+"403","bats and forest fires",1
+"404","bats and wildfire",1
+"405","Baumgarten Endowed Chair for Jewish Studies",1
+"406","bay area film awards",1
+"407","bay area film news",1
+"408","bay area Jewish community",1
+"409","bay area revelations",1
+"410","Bay Area Theatre Critics Circle Awards",1
+"411","BBQ with the Stars",1
+"412","BD2K",1
+"413","bears and human food",1
+"414","beat keeping in animals",1
+"415","Beata Panagopoulos",1
+"416","Beau Richter",1
+"417","beauty",1
+"418","behavioral finance",1
+"419","belle yang",1
+"420","Beloved",1
+"422","Ben Read",1
+"424","benefits",1
+"425","benin",1
+"428","Benjamin Bratt",1
+"429","berger",1
+"430","Bering Sea",1
+"431","best anthro teacher",1
+"432","best colleges",1
+"433","best editorial writer",1
+"434","best film schools",1
+"435","best green colleges",1
+"436","best research schools",1
+"437","best research university",1
+"438","best short films",1
+"439","best teacher",1
+"440","best value",1
+"441","best value college",1
+"442","best value university",1
+"445","Bettina Aptheker",1
+"446","betty moore",1
+"447","bhattacharya",1
+"449","bicycle",1
+"450","Biden",1
+"451","big bang",1
+"453","big bang theory",1
+"455","Big Data to Knowledge",1
+"456","Big Questions in the Disciplines",1
+"457","biggest bird",1
+"458","biggest wingspan",1
+"459","bike",1
+"460","bike to work week",1
+"462","bill doyle",1
+"463","Bill Doyle",1
+"464","bill fletcher jr. center for labor studies",1
+"465","Bill Monning",1
+"466","Bill Shipley",1
+"467","Bill William Pickles",1
+"468","billy crystal",1
+"469","BIN-RDI",1
+"470","bioacoustics",1
+"472","bioengineering symposium",1
+"475","biology",1
+"476","BioMAP",1
+"477","biomedical",1
+"479","biomolecular science",1
+"480","biomolecular science and engineering",1
+"481","bionics lab",1
+"483","biophysics",1
+"484","Biorock",1
+"485","black history",1
+"487","blazar",1
+"488","Blitzer gallery",1
+"490","blood drive red cross",1
+"491","Blood Falls",1
+"492","blue whales",1
+"493","blueback herring",1
+"494","blueberries",1
+"495","blumehthal",1
+"498","BMEG",1
+"499","board of regents",1
+"500","Board of Regents",1
+"501","boardwalk",1
+"502","Bob Dylan",1
+"503","Bob Hansen",1
+"504","body size",1
+"505","bogota",1
+"507","boldt",1
+"508","bomb tests",1
+"510","bona fide productions",1
+"511","bone marrow",1
+"512","bone marrow transplants",1
+"513","bonnie stone",1
+"514","bonny doon vineyard",1
+"515","book",1
+"517","book award",1
+"518","book awards",1
+"519","book clubs",1
+"520","bookbinding",1
+"522","borromeo string quartet",1
+"523","Boston clambake",1
+"524","bottled water",1
+"525","brad olsen",1
+"526","brand",1
+"527","brand bird's astonishing world of art",1
+"528","branding",1
+"529","brandon bird",1
+"532","Brannon Braga",1
+"534","brca",1
+"535","brca1",1
+"536","brca2",1
+"538","Brenda Brathwaite",1
+"539","Brenda Minjares",1
+"541","brenda shaughnessy",1
+"542","brenda wong aoki",1
+"543","Brent Cooley",1
+"545","Brett Dennen",1
+"547","Brian Chan",1
+"548","Brian Cummings",1
+"549","Brian Pybas",1
+"550","brian staufenbiel",1
+"551","Brian Staufenbiel",1
+"552","Brian Watwood",1
+"553","brics",1
+"554","Bridge to Doctorate",1
+"555","bridgette auger",1
+"556","bridging multiple worlds",1
+"557","bring your own bag",1
+"558","broadcasting",1
+"559","broader impacts",1
+"560","Broader Impacts Office",1
+"561","brodsky",1
+"562","bronx green",1
+"563","Brooke Crowley",1
+"564","Brouwer Award",1
+"565","brown",1
+"566","brown bear genetics",1
+"567","brown bears",1
+"569","bruce bridgeman",1
+"572","Bruce Medal",1
+"573","Bruce Rosenblum",1
+"574","bruce springsteen",1
+"575","Bryan Monjes",1
+"576","BSOE",1
+"578","budget cuts",1
+"579","budget forum",1
+"580","budget suggestions",1
+"581","bumblebees",1
+"582","burglaries",1
+"583","burma",1
+"585","burns",1
+"586","bush",1
+"587","bush v Gore",1
+"589","Business Plan Competition",1
+"590","butterflies",1
+"591","buy low",1
+"593","C. elegans lifespan",1
+"594","C3E",1
+"595","C4E",1
+"596","cabrera",1
+"597","cadillac ranch",1
+"598","Caitlin Hernandez",1
+"600","calcifying corals",1
+"601","california",1
+"603","California beaches",1
+"604","California biodiversity",1
+"605","California book awards",1
+"606","California budeget",1
+"608","California Coast",1
+"609","california condor",1
+"610","california condor lead poisoning",1
+"611","California condors",1
+"612","California Current",1
+"613","california education",1
+"614","California flora",1
+"615","California Forward",1
+"616","California Fulbright scholars",1
+"617","california jewish studies programs",1
+"618","California literary magazines",1
+"619","California Native Plant Week",1
+"620","California organic farming",1
+"621","California plant evolution",1
+"622","california Psychological association",1
+"623","California Resources Agency",1
+"624","California sea level rise",1
+"625","California sea lion",1
+"626","California sea otter",1
+"627","California sea otters",1
+"629","California Teach",1
+"631","Camarillo Springs Fire",1
+"632","cameron fields",1
+"633","camila forsberg",1
+"635","camp",1
+"638","Campaign for",1
+"639","campbell leaper",1
+"640","Campbell Leaper",1
+"641","campus",1
+"642","campus closure",1
+"644","campus life",1
+"647","Cancer Genome Atlas",1
+"649","Cancer Genomics Browser",1
+"652","cancer therapy",1
+"654","candidates",1
+"655","candy berlin",1
+"656","cannes film festival",1
+"657","cannibal galaxy",1
+"658","Cantor Arts Center",1
+"659","capital",1
+"660","capitalism",1
+"661","carbon capture technology",1
+"662","carbon sequestration",1
+"663","cardboard",1
+"664","cardon cactus",1
+"665","career award",1
+"666","career enhancement",1
+"667","Career Pathways for Administrative Assistants",1
+"668","Carl Wescott",1
+"669","carla bley",1
+"670","carla takaki richardson",1
+"671","carlo moreno",1
+"672","Carlo Moreno",1
+"673","carmel news",1
+"675","carnivores",1
+"676","carol shennan",1
+"677","Caroline Harwood",1
+"680","Carrie Kahn",1
+"681","carrie mae weems",1
+"684","cary joi fukkunaga",1
+"685","cary joji fukunaga",1
+"686","Cascadia earthquake",1
+"687","Cascadia earthquakes",1
+"692","Cassini mission",1
+"693","Catamaran",1
+"694","catamaran literary reader",1
+"695","Catamaran Literary Reader",1
+"696","catherine cooper",1
+"697","Catherine Wolfe Bruce Gold Medal",1
+"698","Cathy Calfo",1
+"699","CAVE",1
+"701","ccrec",1
+"702","CdTe solar cells",1
+"704","Celtic music",1
+"705","cenic",1
+"706","CENIC",1
+"708","Center for Adaptive Optical Microscopy",1
+"709","Center for Adaptive Optics",1
+"712","Center for Analytical Finance",1
+"713","Center for Big Data in Translational Genomics",1
+"714","Center for Biomolecular Science & Engineering",1
+"715","center for biomolecular science and engineering",1
+"717","center for collaborative research for an equitable california",1
+"720","Center for Integrated Water Research",1
+"721","center for jewish studies",1
+"722","center for jewsih studies",1
+"723","center for labor studies",1
+"724","Center for Ocean Health",1
+"726","Center for Stock Assessment Research",1
+"728","center for tropical science",1
+"729","Center for Visual Studies and Performance",1
+"730","central american refugee crisis",1
+"731","Central California Alliance for Health",1
+"732","central coast",1
+"734","cesar chavez",1
+"735","cesar cruz",1
+"736","cg hub",1
+"738","CGPM",1
+"739","challenges",1
+"740","Chamorro",1
+"741","champion of science",1
+"742","champions of change",1
+"745","Chancellor Blumenthal",1
+"746","chancellor emeritus",1
+"747","Chancellor George Blumenthal",1
+"748","chancellor's associate",1
+"750","changes",1
+"751","chaos",1
+"754","charles griffin farr",1
+"755","Charles Selberg",1
+"756","Charles Vaske",1
+"758","charlie hass",1
+"760","Charlie Sheen",1
+"761","chat with the chancellor",1
+"762","cheerleaders",1
+"763","cheerleading",1
+"764","chelsea mcdaniel",1
+"765","Chelsey Juarez",1
+"768","chemotaxis",1
+"769","chiapas",1
+"770","chicago",1
+"771","Chicano",1
+"772","chief economist",1
+"773","child care",1
+"774","childhood cancer",1
+"775","childhood leukemia",1
+"776","children",1
+"777","Children's Network",1
+"780","chinese culture",1
+"782","Chinese politics",1
+"783","chinook salmon",1
+"784","chip lord",1
+"785","choco",1
+"786","chocolate",1
+"788","Choerodon",1
+"789","Choice",1
+"790","Choice magazine",1
+"792","chona",1
+"793","Chopra Foundation",1
+"794","choreography",1
+"797","chris lay",1
+"800","Christian Schwarz",1
+"801","Christie Hegermiller",1
+"802","Christina Dwyer",1
+"804","Christine and Robert Holo",1
+"805","Christine Taylor",1
+"806","Christopher McKay",1
+"807","Christopher Wong",1
+"808","chronicle books",1
+"809","cia",1
+"811","CIRM",1
+"813","citation rankings",1
+"814","citations",1
+"815","CITRIS",1
+"816","city",1
+"817","city council",1
+"818","City Council",1
+"819","City Lghts",1
+"820","city of  Good Neighbor Initiative",1
+"823","civil rights movement",1
+"824","Claire Dorman",1
+"825","Claire Giannini Fund",1
+"826","Claire Gu",1
+"827","claire hoffman",1
+"829","clam chowder",1
+"830","clarence jones",1
+"831","clarence thomas",1
+"832","Clark Kerr",1
+"833","CLASS",1
+"834","Class Survey",1
+"835","classical music",1
+"837","Claudia Webster",1
+"838","climate and disease",1
+"839","Climate and Policy Conference",1
+"842","climate science",1
+"843","climate science conference",1
+"844","climate sensitivity",1
+"845","clinton",1
+"846","clinton global initiative",1
+"847","Cloud 9",1
+"848","cloud storage",1
+"849","co2 sequestration",1
+"850","COAST project",1
+"851","Coastal and Ocean Airborne Sensor Testbed",1
+"854","Coastal Commission",1
+"855","coastal erosion",1
+"856","coastal geology",1
+"858","coastal sustainability",1
+"859","coastal sustainablility",1
+"860","Cognitive Processes",1
+"861","cold war",1
+"863","college",1
+"865","college 8",1
+"866","college 9",1
+"867","college college",1
+"868","college digital arts progarms",1
+"869","College Eight",1
+"870","College Eight provost",1
+"871","college leadership",1
+"873","College of Fellows",1
+"875","Colonel Bucky Peterson",1
+"876","colonialism",1
+"877","comedy drama",1
+"878","Comic-Con",1
+"880","Commencement 2012",1
+"881","commitment",1
+"882","common core state standards",1
+"883","Commonwealth Club",1
+"884","communicating science",1
+"885","communications",1
+"887","community alert",1
+"888","Community Building Study",1
+"889","community bulletin",1
+"890","community college transfer programs",1
+"891","community fair",1
+"892","community picnic",1
+"897","compact binaries",1
+"898","complicated labors",1
+"899","computational astrophysics",1
+"901","computational origami",1
+"902","computer engineering",1
+"907","computer graphics",1
+"908","Computer History Museum",1
+"909","computer programming instruction",1
+"911","computer security",1
+"912","computer simulations",1
+"913","computer vision",1
+"914","concerts",1
+"915","condor lead poisoning",1
+"916","condor recovery",1
+"919","condors and lead poisoning",1
+"920","condors lead ammunition",1
+"921","conference",1
+"922","Conference for Undergraduate Women in Physics",1
+"923","congress",1
+"924","Congress",1
+"925","Conkouati-Douli",1
+"927","conservation",1
+"928","conservation biology",1
+"929","conservation.",1
+"930","Constance Rockosi",1
+"932","Constitution Day",1
+"934","contemporary poetry",1
+"935","contracts and grants",1
+"936","conversion",1
+"937","convocation",1
+"938","cool schools",1
+"939","cooperation",1
+"940","coral reef restoration",1
+"942","coral settlement",1
+"943","coralline algae",1
+"944","core curriculum",1
+"945","corey harris",1
+"946","Corey Heimlich",1
+"948","corinne warnshuis",1
+"949","Corporate Sponsored Senior Project Program",1
+"950","corporate-sponsored research",1
+"951","corporate-sponsored senior projects program",1
+"956","Counseling and Psychological Services",1
+"957","Country Art of Guitar",1
+"958","county college commitment",1
+"959","course notes",1
+"962","Cowell",1
+"965","Cowell Lime Works",1
+"966","Cowell Press",1
+"967","cp/evc",1
+"968","Cradle of Humankind",1
+"970","Craig Hunt",1
+"971","Craig Reinarman",1
+"972","crash",1
+"973","crash of 2008",1
+"974","creamery",1
+"976","creativity",1
+"978","crime",1
+"980","crime bulletin backpacks",1
+"981","crisis",1
+"982","crisis in Japan",1
+"983","Cristrine Lagarde",1
+"985","crocodilian genomes",1
+"986","Crosson",1
+"987","crowdfunding scholarships",1
+"988","CrowdGrader",1
+"989","crown",1
+"990","crown students",1
+"992","crustose coralline algae",1
+"993","CruzAlert",1
+"994","CruzFit",1
+"995","crystallography",1
+"998","cuba",1
+"999","cuban five",1
+"1001","Curiosity",1
+"1003","Curtis Callan",1
+"1005","CUWiP",1
+"1006","cyanobacteria",1
+"1007","cyber security",1
+"1008","D.C.",1
+"1009","dachas",1
+"1011","Daily Beast",1
+"1012","Dale Kocevski",1
+"1013","Damon Brown",1
+"1015","Dan David Prize",1
+"1017","dan goldstein",1
+"1018","Dan Heller",1
+"1019","dan pulcrano",1
+"1021","dan wirls",1
+"1023","Dana Frank",1
+"1026","dance news",1
+"1027","dancing animal videos",1
+"1028","Dani Molina",1
+"1030","daniel de vise",1
+"1032","Daniel Farber",1
+"1033","daniel friedman",1
+"1034","daniel hirsch",1
+"1036","Daniel Press",1
+"1037","daniel wirls",1
+"1038","danilyn rutherford",1
+"1039","danm",1
+"1041","danm mfa program",1
+"1042","DANM program",1
+"1043","Danna Staaf",1
+"1045","Danny Scheie",1
+"1046","darimont",1
+"1047","dark fiber",1
+"1048","dark galaxies",1
+"1049","Darrell Long",1
+"1050","data and democracy",1
+"1051","data science",1
+"1053","database",1
+"1054","Dave Brubeck",1
+"1055","Dave Casper",1
+"1056","dave eggers",1
+"1058","David Bank",1
+"1059","David Belanger",1
+"1060","David Bernick",1
+"1062","david dunn",1
+"1063","david grisman",1
+"1064","david harvey",1
+"1069","David Lang",1
+"1070","David Pham",1
+"1071","david rawlings",1
+"1074","David Williams",1
+"1075","David Yager",1
+"1076","Dawn spacecraft",1
+"1079","day camp",1
+"1081","day trading",1
+"1082","DBTB",1
+"1083","Dead Studies",1
+"1084","Deaf poetry",1
+"1086","Dean  Extension",1
+"1087","Dean McHenry",1
+"1088","Dean's Fund for Diversity in the Sciences",1
+"1089","death",1
+"1090","december",1
+"1091","December events",1
+"1092","dedication",1
+"1093","dee hibbert-jones",1
+"1094","deep biosphere",1
+"1095","deep earthquakes",1
+"1096","DEEP survey",1
+"1097","deep-sea corals",1
+"1098","DEEP2",1
+"1099","defense budget",1
+"1100","defense spending",1
+"1101","degree",1
+"1102","degrees",1
+"1103","DEIMOS",1
+"1104","delaney",1
+"1106","demonstration advisory group",1
+"1108","dena robertson",1
+"1109","dendritic spines",1
+"1110","denim day",1
+"1111","Denisova cave",1
+"1112","Denisovans",1
+"1113","Denmark",1
+"1114","Dennis Keen",1
+"1115","derivatives",1
+"1116","desert night lizards",1
+"1117","detention",1
+"1119","developing destinies",1
+"1121","Dick Pierce",1
+"1122","dickens",1
+"1125","Dickens Project at",1
+"1126","dickens project at  oprah's book club",1
+"1127","dickens universe",1
+"1129","Dickson Emeriti Professorships",1
+"1130","Digby Horner",1
+"1131","digital",1
+"1132","digital art exhibition",1
+"1135","Digital arts and new media",1
+"1137","Digital Arts and Research Center",1
+"1138","digital arts graduate programs",1
+"1139","digital arts MFA programs",1
+"1140","digital arts research center",1
+"1142","digital humanities news",1
+"1144","Digital NEST",1
+"1145","Dining",1
+"1146","dining hall",1
+"1148","disabilities",1
+"1149","disability",1
+"1150","discover magazine",1
+"1151","Discover Magazine",1
+"1152","discovery",1
+"1153","disk settling",1
+"1155","dissolved inorganic carbon",1
+"1156","dissolved organic matter",1
+"1158","distinguished professor",1
+"1159","district",1
+"1160","dive reflex",1
+"1161","dive response",1
+"1164","diversity awards",1
+"1165","DNA Day",1
+"1167","docent training",1
+"1169","doctoral programs",1
+"1170","doctorate",1
+"1171","documentaries",1
+"1175","dominique strauss-kahn",1
+"1176","dominy",1
+"1177","domoic acid",1
+"1179","don rothman",1
+"1181","Don Smith",1
+"1182","don weygandt",1
+"1183","don't stop believin'",1
+"1184","Donald Clark",1
+"1185","Donald Osterbrock",1
+"1186","Donald Potts",1
+"1188","Donald Wiberg",1
+"1189","donald wittman",1
+"1190","Donald Wittman",1
+"1191","Donna Murphy",1
+"1192","donors",1
+"1193","Dorothy E. Everett Endowed Chair",1
+"1194","doubles tennis",1
+"1196","Doug Lin",1
+"1197","doug mcclellan",1
+"1198","Doug Weismann",1
+"1199","Douglas Lin",1
+"1201","drama",1
+"1203","DREAM Challenge",1
+"1204","dreamers",1
+"1205","Dress Like 1965 Day",1
+"1206","drew goodman",1
+"1207","Dried Flower and Succulent Wreath Sale",1
+"1208","drink",1
+"1210","drug-resistant bacteria",1
+"1211","drummond pike",1
+"1212","Dudley Green",1
+"1213","Dudleya verityi",1
+"1214","duki dror",1
+"1216","dwarf galaxy merger",1
+"1217","E. O. Lawrence Award",1
+"1218","early career award",1
+"1219","early childhood education",1
+"1220","Early Childhood Education Center",1
+"1221","early christians",1
+"1223","earth and planetary sciences",1
+"1224","Earth Day",1
+"1227","Earth-like planets",1
+"1228","earthbound farm",1
+"1229","earthquake",1
+"1230","earthquake hazards",1
+"1231","earthquake prediction",1
+"1232","earthquake triggering",1
+"1233","earthquakes",1
+"1234","eBay Inspire Scholarship",1
+"1235","eBay scholarship program",1
+"1236","Ebola virus",1
+"1237","ebooks",1
+"1238","ecological art",1
+"1239","ecological retreat",1
+"1240","ecology and evolution",1
+"1242","economic",1
+"1244","economy",1
+"1245","ecosystem based fisheries management",1
+"1246","ecosystem collapse",1
+"1247","ed fees",1
+"1248","Ed green",1
+"1250","Ed Talks",1
+"1251","Edgar Osorio",1
+"1252","Edison Jensen",1
+"1253","Editor's Note",1
+"1254","edua omosupe",1
+"1256","education abroad program",1
+"1257","Education Abroad Program",1
+"1258","education news",1
+"1259","educational anthroplogy",1
+"1260","educational partnership center",1
+"1261","Educational Partnership Center",1
+"1262","Edward Landesman",1
+"1263","eelgrass",1
+"1264","eels",1
+"1265","Eesha Khare",1
+"1266","egg",1
+"1267","Egypt protests",1
+"1268","eHealth Nigeria",1
+"1269","Eion Lys",1
+"1270","El Teatro Campesino",1
+"1271","elaine sullivan",1
+"1273","Elections Orientations",1
+"1275","electrohydrogenesis",1
+"1276","electromagnetically induced transparency",1
+"1277","eleonora",1
+"1278","elephant seal migrations",1
+"1280","Elijah Mermin",1
+"1281","elissa olimpi",1
+"1282","Elizabeth Abrams",1
+"1283","Elizabeth Devitt",1
+"1285","Elizabeth McKenzie",1
+"1286","elizabeth stephens",1
+"1289","Elkhorn Slough eutrophication",1
+"1291","elliot anderson",1
+"1293","Ellison Medical Foundation",1
+"1294","Eloise Pickard Smith Galleries",1
+"1295","emergency communications field day",1
+"1296","emerging diseases",1
+"1297","emerging economies",1
+"1298","emerging worlds",1
+"1299","emerging worlds.",1
+"1301","emeriti faculty",1
+"1303","Emeriti Lecture",1
+"1304","emeritus proessor",1
+"1305","Emerson Glassey",1
+"1306","emerti faculty lecture",1
+"1308","emily jane white",1
+"1309","Emily Tucker",1
+"1310","Emmy Award",1
+"1311","emmy awards",1
+"1312","Emmys",1
+"1313","empire grade",1
+"1314","Employee Wellness",1
+"1317","ENCODE",1
+"1318","end-lactation syndrome",1
+"1320","endangered plants",1
+"1322","endowed chair",1
+"1323","endowment",1
+"1324","energy",1
+"1325","Energy Award",1
+"1326","energy independence",1
+"1327","energy now",1
+"1328","energy storage",1
+"1331","Engineering",1
+"1332","engineering school",1
+"1333","engineering sustainability",1
+"1334","english teachers",1
+"1336","entertainment",1
+"1337","entrepreneur",1
+"1338","entrepreneurs",1
+"1341","Entrepreneurship Studies Initiative",1
+"1344","environmental art",1
+"1345","environmental justice",1
+"1346","environmental policy",1
+"1347","environmental pollution",1
+"1348","environmental protection agency",1
+"1350","Environmental Studies Program",1
+"1351","environmental toxicology",1
+"1353","ENVS",1
+"1354","epa",1
+"1355","epc",1
+"1356","epigenetic inheritance",1
+"1357","epigenetics",1
+"1358","Eric Ellis",1
+"1359","Eric Palkovacs",1
+"1360","eric porter",1
+"1361","erik asphaug",1
+"1363","Erik Demaine",1
+"1365","Eris simulation",1
+"1367","esa conference",1
+"1368","esl",1
+"1369","estes",1
+"1373","Ethics Bowl",1
+"1374","ethics in sports",1
+"1376","ethnomusicology",1
+"1378","eutrophication",1
+"1379","ev\rev",1
+"1380","eva bertram",1
+"1383","Evelyn Castle",1
+"1384","event",1
+"1386","events ",1
+"1387","events   ",1
+"1389","evolution of body size",1
+"1390","evolutionary games",1
+"1391","evolutionary innovation",1
+"1392","evolutionary revolutionary",1
+"1393","Ewing's Sarcoma",1
+"1394","excellence",1
+"1396","excellence in teaching award",1
+"1398","excess nutrients",1
+"1399","exchange student",1
+"1400","executive vice chancellor",1
+"1403","Expanding Your Horizons",1
+"1404","experience",1
+"1405","experiential education",1
+"1406","experiential learning",1
+"1407","experts on Honduras",1
+"1409","extension",1
+"1411","extinction rates",1
+"1413","extreme deep field",1
+"1414","extremely correlated Fermi liquids",1
+"1415","Exxon Valdez",1
+"1416","Exxon Valdez oil spill",1
+"1417","EYH",1
+"1418","ezequiel olvera",1
+"1419","ezequiel olvera jr.",1
+"1420","faber",1
+"1421","Faber",1
+"1422","Facebook",1
+"1424","faculty and staff",1
+"1425","faculty and staff pioneers",1
+"1426","faculty assistant",1
+"1429","fair",1
+"1431","falcon nest cam",1
+"1434","fall plant sale",1
+"1435","Fall Plant Sale",1
+"1437","fall-run chinook salmon",1
+"1438","family",1
+"1439","family friendly policies",1
+"1440","family student housing",1
+"1441","Fan Hsu",1
+"1443","Farm",1
+"1446","farm to fork",1
+"1448","farmers markets",1
+"1449","fat",1
+"1450","fault friction",1
+"1451","favorite teacher",1
+"1452","federal judge",1
+"1453","fee",1
+"1454","fee hike",1
+"1455","feingold",1
+"1456","felicia rice",1
+"1457","Fellows' Medal",1
+"1458","fellowship",1
+"1459","fellowships",1
+"1460","feminicide",1
+"1461","feminism",1
+"1464","Feminist Studies",1
+"1465","feminist studies Ph.D programs",1
+"1468","Fernando Verdasco",1
+"1469","festivals",1
+"1470","fiber to the future",1
+"1472","field day",1
+"1474","fieldwork",1
+"1475","fieldworker",1
+"1476","fight",1
+"1477","fighting banana slug",1
+"1479","Film & Digital Media",1
+"1481","Film and digital media",1
+"1482","Film and Digital Media",1
+"1483","film and digital media department",1
+"1484","film and digital media program",1
+"1485","film criticism",1
+"1487","Film Department",1
+"1488","film festival",1
+"1489","film festivals",1
+"1491","film program",1
+"1492","film programs",1
+"1493","finalists",1
+"1494","finance expert",1
+"1496","finkelstein",1
+"1497","fireworks",1
+"1498","first american woman to walk in space",1
+"1499","first in family",1
+"1500","First Life",1
+"1501","first woman president",1
+"1502","fisher",1
+"1503","fishing",1
+"1504","Fitnat Yildiz",1
+"1505","five for 2015",1
+"1506","Five3 Genomics",1
+"1509","Flora Lu",1
+"1511","flu precautions",1
+"1514","folklórico",1
+"1516","food bank",1
+"1519","food policy",1
+"1520","food science",1
+"1521","food service",1
+"1522","food system",1
+"1523","foodie",1
+"1524","Forbes",1
+"1525","ford roosevelt",1
+"1527","forensic sciences",1
+"1528","forest ecology research site",1
+"1529","Fornax",1
+"1531","forums",1
+"1532","foster care",1
+"1533","foster child",1
+"1534","foster children",1
+"1535","foundation",1
+"1537","Foundation Forum",1
+"1538","Founder's Day",1
+"1539","Founder's Day dinner",1
+"1540","Founder's Rock",1
+"1542","Founders",1
+"1544","Founders Celebration",1
+"1545","founders day",1
+"1546","Founders Day",1
+"1547","founding",1
+"1548","four years",1
+"1549","Frameline",1
+"1551","Frameline award",1
+"1552","francesca guerra",1
+"1553","Francis Clauser",1
+"1555","Frank Andrews",1
+"1557","Franklin Institute",1
+"1560","fred frick",1
+"1561","fred keeley",1
+"1562","fred keeley lecture",1
+"1563","Fred Lieberman",1
+"1564","fredric lieberman",1
+"1566","freshmen",1
+"1567","frick",1
+"1569","Friends of LML",1
+"1571","frog extinctions",1
+"1572","frosh",1
+"1573","fruit tree class",1
+"1574","FSH",1
+"1575","fukushima",1
+"1576","fulbright",1
+"1577","Fulbright Garcia Robles Scholarships",1
+"1578","Fulbright Scholar",1
+"1579","fulbright scholarship",1
+"1580","Fulbright scholarships",1
+"1581","Fulbright schorships",1
+"1582","full frame film festival  sana cruz film and digital media",1
+"1585","fungi",1
+"1586","G-quadruplex",1
+"1587","G10K",1
+"1588","GA4GH",1
+"1589","gabby giffords",1
+"1591","Gabe Zimmerman",1
+"1595","gail hershatter",1
+"1596","gail michaelis-ow",1
+"1597","gail ow",1
+"1602","Galen Licht",1
+"1603","Galileo spacecraft",1
+"1605","Galloway",1
+"1608","game design programs",1
+"1609","Game Developers Choice Awards",1
+"1610","Game Developers Conference",1
+"1611","Game of Drones",1
+"1612","game programs",1
+"1613","game studies",1
+"1614","game theory",1
+"1615","GamePro",1
+"1616","games",1
+"1619","games M.S.",1
+"1620","games masters degree",1
+"1621","games professional degree",1
+"1622","gaming",1
+"1623","gaming news",1
+"1624","gamma-ray pulsars",1
+"1626","gardening",1
+"1630","Gary Novack",1
+"1633","gas leak",1
+"1634","gathering",1
+"1635","gavin newsom",1
+"1636","gay and lesbian films",1
+"1638","gay rights",1
+"1639","GDC",1
+"1640","GDCA",1
+"1641","GEAR UP grants",1
+"1642","gear-up",1
+"1643","Gemini Planet Imager",1
+"1644","gender equlity",1
+"1645","gender studies",1
+"1646","gene patents",1
+"1647","genetic research",1
+"1648","genetic stock",1
+"1649","genetic testing",1
+"1650","genetics",1
+"1651","genome",1
+"1653","genome analysis",1
+"1654","genome assembly",1
+"1655","genome bioinformatics",1
+"1656","genome browser",1
+"1658","Genome Browser in a Box",1
+"1660","genomic data",1
+"1662","Genomics",1
+"1664","Geochemical Fellow",1
+"1665","Geological Society of America",1
+"1666","Geological Society of Japan",1
+"1668","George Blumenthal",1
+"1669","George Brown",1
+"1670","george bunch",1
+"1672","George Malloch",1
+"1674","george polk awards",1
+"1675","georges van den abbeele",1
+"1676","georgetown set",1
+"1677","geothermal power and earthquakes",1
+"1678","GERA",1
+"1679","gerhard ringel",1
+"1680","Gey-Hong Gweon",1
+"1681","GI Bill",1
+"1683","giant impact",1
+"1684","giant insects",1
+"1685","Gideon Shaanan",1
+"1686","giffords",1
+"1687","Giffords",1
+"1688","gift",1
+"1689","gift and wreath sale",1
+"1690","Gift and Wreath Sale",1
+"1692","GIIP",1
+"1693","Gilead Sciences",1
+"1694","Gill Volcano",1
+"1695","gillian welch",1
+"1696","girls",1
+"1697","Girls in Engineering",1
+"1698","giving",1
+"1699","giving tree",1
+"1700","Giving Tree Program",1
+"1701","Gjerde",1
+"1702","GLAST",1
+"1703","glaucoma",1
+"1704","Glaucoma Research Society",1
+"1705","gleeson.",1
+"1706","Glen Langdon",1
+"1708","glenn stewart",1
+"1709","Glenn Stewart",1
+"1710","gliese 581",1
+"1711","Gliese 581",1
+"1712","global",1
+"1714","Global Alliance",1
+"1715","global economics",1
+"1716","global extinctions",1
+"1717","Global Food Initiative",1
+"1718","Global Game Jam",1
+"1720","Global Village",1
+"1722","globalfood",1
+"1723","globular clusters",1
+"1724","Gloria Anzaldua",1
+"1725","gloria moran",1
+"1726","gnomeland",1
+"1727","gnomes",1
+"1729","Golden Apple",1
+"1730","golden globe awards",1
+"1731","golden globes",1
+"1732","golf scramble",1
+"1733","google",1
+"1734","google trends",1
+"1735","Gorbachev",1
+"1736","gordon moore",1
+"1737","Gordon Ringold",1
+"1738","Gordon Smith",1
+"1739","Gordon Smith Memorial Scholarship",1
+"1740","Gourd Music",1
+"1741","Gov. Arnold Schwarzenegger",1
+"1742","Gov. Edmund G. Pat Brown",1
+"1743","Gov. Jerry Brown",1
+"1745","grades",1
+"1747","Graduate Division",1
+"1748","graduate research symposium",1
+"1752","Graduate Women in Science",1
+"1753","graduates",1
+"1755","Graeme Smith",1
+"1757","grammy awards",1
+"1758","grant",1
+"1759","Grant Pogson",1
+"1760","grants and contracts",1
+"1761","graphic design contest",1
+"1765","Grateful Dead archive",1
+"1767","grateful dead archive online",1
+"1768","Grateful dead archivist",1
+"1769","grateful dead exhibitions",1
+"1771","Grateful Dead studies",1
+"1773","gravitational waves",1
+"1775","Great Expectations",1
+"1776","great horned owl",1
+"1777","great meadow",1
+"1779","great white shark",1
+"1780","greece",1
+"1781","Greek",1
+"1783","green colleges",1
+"1784","green energy",1
+"1786","green school",1
+"1787","green technology",1
+"1788","Green Wharf Project",1
+"1789","greetings",1
+"1790","Greg Gilbert",1
+"1792","Greg Neri",1
+"1793","greg o'malley",1
+"1794","Greg Rau",1
+"1795","gregg herken",1
+"1796","Gregory Gilbert",1
+"1797","Gregory Laughlin",1
+"1798","Gregory Rau",1
+"1799","Gregory Sulger",1
+"1800","greta gibson",1
+"1802","growing blueberries",1
+"1803","growth",1
+"1804","growth rates",1
+"1805","grupo folklorico los mejicas",1
+"1806","grupo folklórico los mejicas",1
+"1807","Grupo Folklórico Los Mejicas",1
+"1808","GSA",1
+"1809","guatemala",1
+"1810","guggenheim",1
+"1811","Guggenheim",1
+"1812","guggenheim fellowship",1
+"1813","Guillermo Gómez-Peña",1
+"1814","guitarmakekrs",1
+"1815","Gulf oil spill",1
+"1816","Gunjan Sinha",1
+"1817","gurnee",1
+"1818","gustavo vazquez",1
+"1819","gwen mickelson",1
+"1821","H1N1",1
+"1823","HAB monitoring",1
+"1825","habitable planets",1
+"1827","habitat restoration",1
+"1829","HACK  hackathon",1
+"1830","haddad",1
+"1832","hal hyde",1
+"1834","hal varian",1
+"1836","Halloween",1
+"1837","Halloween celebrations",1
+"1838","ham radio",1
+"1839","hands-on learning",1
+"1840","haney",1
+"1841","Hannah Perlkin",1
+"1843","hard times",1
+"1844","Hardy Hanson",1
+"1845","Harfest",1
+"1848","Harmful Algal Blooms",1
+"1849","Harold Pinter",1
+"1850","Harold Widom",1
+"1851","Harry Berger",1
+"1852","Harry Fielding Reid Medal",1
+"1853","Harry Huskey",1
+"1856","Harvard University Press",1
+"1858","hastings",1
+"1859","hatchery fish",1
+"1860","hatchery salmon",1
+"1863","Haussler",1
+"1865","Hawaiian monk seals",1
+"1867","Hay Barn",1
+"1868","hbo documentaries",1
+"1872","health center closure",1
+"1873","health insurance",1
+"1874","health net",1
+"1875","health premiums",1
+"1877","health survey",1
+"1878","hearing sensitivity",1
+"1879","heather briggs",1
+"1880","Heather Tallis",1
+"1881","Heineman Prize",1
+"1882","Helen and Newton Harrison",1
+"1883","Helene Moglen",1
+"1885","helium star",1
+"1889","hematopoietic stem cells",1
+"1890","henry kaiser",1
+"1891","Henry Opukaha'ia",1
+"1892","Herbie Lee",1
+"1893","herman blake",1
+"1894","herman gray",1
+"1895","hershatter",1
+"1896","Hershatter",1
+"1897","HGP",1
+"1898","HGVM",1
+"1899","HHMI",1
+"1900","hi kyung kim",1
+"1901","hiapanic heritage month",1
+"1902","higgs boson",1
+"1904","Higgs Boson",1
+"1905","Higgs field",1
+"1906","high finance",1
+"1907","high-elevation species climate change",1
+"1908","high-temperature superconductors",1
+"1909","higher education",1
+"1910","higher education shellye Archembeau",1
+"1911","Hire Education",1
+"1913","historians",1
+"1915","historic preservation",1
+"1916","historical fiction",1
+"1919","history of  ",1
+"1921","history of organic farming",1
+"1922","history of science",1
+"1923","history of thye Mediterranean",1
+"1924","Hitachi",1
+"1925","hitchcock poetry fund",1
+"1926","Hitoshi Murayama",1
+"1927","hmong",1
+"1929","hoffman",1
+"1933","holiday sale",1
+"1934","Hollenbeck",1
+"1935","hollow-core optical waveguides",1
+"1936","hollow-core waveguide",1
+"1938","hollywood news",1
+"1939","Holo gift",1
+"1941","holocaust litigation",1
+"1942","holocaust studies",1
+"1943","Holocaust studies",1
+"1944","Home",1
+"1945","Homeless Garden",1
+"1946","homeless services",1
+"1947","Homeless Services Center",1
+"1948","homicide",1
+"1951","honduras coup",1
+"1952","Honduras coup",1
+"1953","Honduras refugee crisis",1
+"1954","honor",1
+"1955","honorary",1
+"1956","honored books",1
+"1957","honored faculty",1
+"1958","Hopkins' rose nudibranch",1
+"1959","horse lineage",1
+"1960","hospice",1
+"1962","how life began",1
+"1963","How to Clone a Mammoth",1
+"1965","Howard Hughes Medical Institute",1
+"1966","Hoyt Peckham",1
+"1968","HST",1
+"1969","Huawei UDS",1
+"1970","hub",1
+"1971","Hubble MCT Program",1
+"1975","Huffington Post",1
+"1977","hughey",1
+"1978","hult prize",1
+"1979","human ancestors",1
+"1980","human bear interactions",1
+"1981","human biology",1
+"1982","Human Biology/Health Sciences program",1
+"1984","Human Genome Variation Map",1
+"1985","human impacts on marine mammals",1
+"1987","human-robot collaboration",1
+"1994","Humanities Endowed Chair",1
+"1995","humanities inititatives",1
+"1997","Humanities News",1
+"1999","humanities teaching award",1
+"2000","humanties",1
+"2001","humanties division",1
+"2003","Hummingbird Days",1
+"2004","hummingbirds",1
+"2005","hurricane katrina",1
+"2006","Hurricane Katrina documentaries",1
+"2007","Hyades",1
+"2008","hybrid dynamical systems",1
+"2009","hybrid systems",1
+"2010","hydrogen explosion",1
+"2011","hydrogen fuel",1
+"2012","hydrogen gas",1
+"2013","hydrothermal flow",1
+"2014","I Hotel",1
+"2015","I-SPY 2",1
+"2016","I/UCRC",1
+"2018","ice seals",1
+"2019","ice sheets",1
+"2020","Ice-Bound",1
+"2021","ideass",1
+"2022","IDEASS",1
+"2023","IEEE",1
+"2024","IEEE Fellow",1
+"2026","iGEM",1
+"2027","Ike Nassi",1
+"2029","imf",1
+"2031","immigration reform",1
+"2032","IMS",1
+"2033","IMSD",1
+"2034","in-state admissions",1
+"2035","incessant visions",1
+"2036","incidents",1
+"2037","independent film producers",1
+"2038","Independent Game Awards",1
+"2039","independent youth",1
+"2042","India news",1
+"2043","Indian cinema",1
+"2044","Indian films",1
+"2045","indigenous",1
+"2046","indigineous",1
+"2047","Indoor Team Championship",1
+"2048","induced seismicity",1
+"2049","information technologies",1
+"2050","infrastructure",1
+"2053","injury",1
+"2054","Inktank",1
+"2055","Inner Light Ministries",1
+"2057","innovation corps",1
+"2058","innovation deficit",1
+"2059","input",1
+"2060","insititute of arts and sciences",1
+"2061","Inspire Scholars",1
+"2063","Institute for Humanities Research",1
+"2064","Institute for Particle Physics",1
+"2065","Institute for Scientist and Engineer Educators",1
+"2066","Institute for the Biology of Stem Cells",1
+"2067","Institute for the Study of Ecological and Evolutionary Climate Impacts",1
+"2068","institute of arts and science",1
+"2070","institute of humanites research",1
+"2071","Institute of Humanites Research",1
+"2072","Institute of Marine Sciences",1
+"2074","Institute of the Arts and Sciences",1
+"2075","instrumental value versus intrinsic value",1
+"2076","insurance",1
+"2078","Intel Science Fair",1
+"2079","Intel Science Talent Search",1
+"2080","Intellectual Forum",1
+"2081","intelligence",1
+"2082","interactive fiction",1
+"2083","Interactive Storytelling",1
+"2084","interdisciplinary arts",1
+"2087","interim dean",1
+"2088","international",1
+"2089","international crisis group",1
+"2090","international economics",1
+"2091","international outreach",1
+"2093","International Summer Institute for Modeling in Astrophysics",1
+"2094","internet",1
+"2096","internships",1
+"2097","introductory science courses",1
+"2098","invasive species",1
+"2099","Inventing the Future of Games",1
+"2101","investing advice",1
+"2102","investment",1
+"2103","investment advise",1
+"2104","investment banking",1
+"2105","investment strategies",1
+"2106","Io",1
+"2108","ion exchange",1
+"2109","iPhone",1
+"2111","iPhone application",1
+"2112","Ira Ruskin",1
+"2113","Iraq music",1
+"2114","Iraqibacter",1
+"2115","Irene Osterbrock",1
+"2116","Irish",1
+"2117","Irish language",1
+"2118","iron enhancement",1
+"2119","iron fertilization",1
+"2122","Isang Himig",1
+"2123","ISEE",1
+"2124","ISEECI",1
+"2125","ISIMA",1
+"2126","ISIS",1
+"2128","Island Conservation",1
+"2129","isolation",1
+"2130","isotope analysis",1
+"2131","israel",1
+"2132","Israeli Arabic music",1
+"2133","Italy",1
+"2134","its a wonderful life",1
+"2135","Ivan Mercado",1
+"2136","j",1
+"2137","j. cameron monroe",1
+"2140","j. michael bishop",1
+"2142","J. Xavier Prochaska",1
+"2143","J.J. Garcia-Luna-Aceves",1
+"2144","jack baskin",1
+"2145","Jack Baskin",1
+"2146","Jack Baskin Chair in Computer Engineering ",1
+"2147","Jack Hopkins",1
+"2148","Jack Kerouac",1
+"2149","jack zajac",1
+"2150","Jacob Estes",1
+"2151","Jacob Garbe",1
+"2152","Jacob Martinez",1
+"2154","Jake Hurwitz ",1
+"2155","Jamais Cascio",1
+"2156","james beard foundation",1
+"2158","james estes",1
+"2160","james gill",1
+"2162","James Kent",1
+"2163","James Shope",1
+"2164","James Townsend",1
+"2165","James Whitehead",1
+"2166","James Zachos",1
+"2167","jane eyre",1
+"2168","Jane McHenry",1
+"2170","janet napolitano",1
+"2171","japan",1
+"2172","Japan",1
+"2173","japan earthquake",1
+"2174","Japan earthquake",1
+"2175","japan tsunami",1
+"2176","Japanese history",1
+"2177","Japanese whaling program",1
+"2178","JARPA",1
+"2179","Jasmin Avila",1
+"2181","Jason Prochaska",1
+"2182","jazz composers",1
+"2183","jazz studies",1
+"2184","Jean Brodie",1
+"2185","Jean Fox Tree",1
+"2187","Jean Willson",1
+"2188","Jeff Goddard",1
+"2189","jennifer maytorena",1
+"2190","Jennifer O'Leary",1
+"2191","jennifer parker",1
+"2192","Jennifer Parker",1
+"2193","jenny reardon",1
+"2196","Jerry Garcia",1
+"2198","Jerry Ruiz",1
+"2199","Jerry Walters",1
+"2202","jessica roy",1
+"2203","Jewell Theater",1
+"2204","jewish",1
+"2205","Jewish",1
+"2206","Jewish anthologies",1
+"2207","Jewish art",1
+"2208","jewish culture",1
+"2209","Jewish folk art",1
+"2210","jewish identity",1
+"2211","Jewish journal",1
+"2212","jewish spaces ",1
+"2214","Jewish studies",1
+"2216","jewish studies books",1
+"2219","Jewish Studies Program",1
+"2220","jewish studies programs",1
+"2221","jewish studies research",1
+"2225","Jim Gunderson",1
+"2227","Jim McCloskey",1
+"2228","jim meskimen",1
+"2229","Jim Nielsen",1
+"2231","Jin Zhang",1
+"2232","Joan Brugge",1
+"2233","jocelyn bayne",1
+"2236","Joe Miller",1
+"2238","Joe Simitian",1
+"2239","Joel Ferguson",1
+"2240","Joel Kubby",1
+"2242","John Bost",1
+"2243","John Cage",1
+"2244","John Chaufan Field",1
+"2245","John Dizikes",1
+"2247","John Jota Leaños",1
+"2248","John Koster",1
+"2250","John Madrid",1
+"2251","John Marcum",1
+"2252","John N. Thompson",1
+"2254","John Romero",1
+"2255","John Saintignon",1
+"2257","John Vesecky",1
+"2258","john weber",1
+"2259","John Weber",1
+"2260","John Weber. arts and sciences",1
+"2261","Jonathan",1
+"2263","Jonathan Franzen",1
+"2264","Jonathan Trump",1
+"2266","Jonathon Allen",1
+"2267","joost hiltermann",1
+"2268","joseph bunnett",1
+"2269","Joseph Hoyt",1
+"2270","josh stuart",1
+"2272","joshua aizenman",1
+"2273","Joshua Pechthalt",1
+"2274","Joshua Rosen",1
+"2277","journey",1
+"2278","jr",1
+"2279","jrbaskin school of engineering",1
+"2280","Juan Morales",1
+"2281","Judith Scott",1
+"2282","Judy Yung",1
+"2284","Julie Barrett Heffington",1
+"2287","jumping genes",1
+"2288","junior faculty",1
+"2289","Jupiter",1
+"2291","Kaitlin Russon",1
+"2292","Kaitlyne Fisher",1
+"2293","Kapteyn's star",1
+"2294","Karen Holl",1
+"2295","karen joy fowler",1
+"2296","Karen McNally",1
+"2298","Karen Thompson",1
+"2301","karl pister",1
+"2302","Karla Knudson",1
+"2303","Karlinsky",1
+"2304","Kast Spectrograph",1
+"2305","Kate Langwig",1
+"2306","Kate Schatz",1
+"2307","kate trumbull",1
+"2308","katerina lanfranco",1
+"2309","Katherine Beiers",1
+"2311","kathryn d. sullivan",1
+"2312","kathryn sullivan",1
+"2314","Kathy Foley",1
+"2315","Kathy Gerber",1
+"2316","kathy sullivan",1
+"2319","Katrina Learned",1
+"2321","Kavli Prize in Astrophysics",1
+"2322","kavli science awards",1
+"2323","kay house",1
+"2324","Kayak Surf Festival",1
+"2325","Keck Center for Nanoscale Optofluidics",1
+"2326","Keck Observatory",1
+"2327","Keck Telescope",1
+"2328","keeley lecture",1
+"2329","Keith Brant",1
+"2331","kelp",1
+"2333","Ken Feingold",1
+"2334","Ken McLaughlin",1
+"2335","ken norris",1
+"2336","Kendra Baker",1
+"2337","kendra Mckinley",1
+"2338","Kenneth Feingold",1
+"2339","kenneth s. norris",1
+"2340","Kenny Baker",1
+"2341","kent nagano",1
+"2342","kenya",1
+"2343","Kepler",1
+"2344","Kepler Explorer",1
+"2346","Kepler Mission",1
+"2347","Kepler-11",1
+"2351","Kevin Nolting",1
+"2352","Khalid Al-Ali",1
+"2353","kickoff",1
+"2354","kiel ireland",1
+"2355","Kingsley Odigie",1
+"2356","Kiplinger",1
+"2357","kletzer",1
+"2359","Knowles Science Teaching Foundation",1
+"2360","Kocevski",1
+"2362","konopelski",1
+"2363","Korean traditional music",1
+"2364","Korycansky",1
+"2367","KRAB zinc finger proteins",1
+"2368","kresge",1
+"2369","Kresge College",1
+"2370","krissia martinez",1
+"2371","KSBW",1
+"2372","kzsc",1
+"2373","KZSC",1
+"2375","La Mission",1
+"2376","LA summer soiree",1
+"2377","la times festival of books",1
+"2378","Laal Pari",1
+"2380","Laboratory for Adaptive Optics",1
+"2382","LAFCO",1
+"2383","laird",1
+"2385","lals",1
+"2387","landau",1
+"2388","language",1
+"2389","language comprehension",1
+"2390","language degrees",1
+"2392","Large Hadron Collider",1
+"2393","Larry deGhetaldi",1
+"2394","Larry Krakmer",1
+"2395","Larry Maxcy",1
+"2396","larry polansky",1
+"2397","Larry Polansky",1
+"2398","LASER",1
+"2399","laser photocoagulation",1
+"2400","laser surgery",1
+"2402","latham",1
+"2403","latin America and latino studies",1
+"2406","Latin American and latino Studies",1
+"2407","Latin American and Latino studies",1
+"2408","Latin American and Latino Studies",1
+"2409","latin american art",1
+"2411","latino filmmakers",1
+"2412","latino heritage award",1
+"2413","latino literature",1
+"2414","latino public broadcasting",1
+"2415","launch",1
+"2416","Laura Lopez",1
+"2417","laurie king",1
+"2418","Lawrence Award",1
+"2419","lay",1
+"2421","lead ammunition",1
+"2422","lead contamination",1
+"2423","lead poisoning in condors",1
+"2424","lead pollution",1
+"2426","leadership academy",1
+"2427","LEADS",1
+"2428","Learning",1
+"2429","lecture",1
+"2432","LEED",1
+"2433","legal",1
+"2434","legislature",1
+"2435","Leiden Ranking",1
+"2436","lemurs",1
+"2437","Leo Chiang",1
+"2438","lesser long-nosed bat",1
+"2439","Leta E. Miller",1
+"2440","leta miller",1
+"2441","leukemia",1
+"2442","Leviathan",1
+"2443","lewis",1
+"2444","Lewis watts",1
+"2445","Lewis Watts",1
+"2446","LGBT news",1
+"2447","LGBT ranking",1
+"2449","librarian",1
+"2450","Libraries",1
+"2453","library news",1
+"2454","lick observatory",1
+"2456","Lick summer programs",1
+"2457","Lick Summer Programs",1
+"2458","Lick Visitor Center",1
+"2460","life on earth",1
+"2461","LIGO",1
+"2462","Lincoln Taiz",1
+"2463","Linda Burman-Hall",1
+"2465","Linda Werner",1
+"2468","linguistics department",1
+"2469","Linguistics Department manager",1
+"2470","linguistics news",1
+"2471","Lingusitics",1
+"2472","Linux",1
+"2473","lionsgate",1
+"2474","Lionsgate",1
+"2475","Lisa Hunter",1
+"2476","lisa p. jackson",1
+"2477","lisa p. Jackson",1
+"2478","Lise Getoor",1
+"2479","literarcy",1
+"2480","literary magazines",1
+"2483","literature dpartment",1
+"2484","little brown bat",1
+"2485","little brown myotis",1
+"2486","living writers reading series",1
+"2488","Living Writers Series",1
+"2490","lizard social groups",1
+"2492","lois kazakoff",1
+"2493","lois weber",1
+"2495","london",1
+"2496","Lonely Mountain Farm",1
+"2499","long-running Jewish journal",1
+"2500","longest-running Jewish journal",1
+"2501","Lou Fackler",1
+"2502","Louann Baker",1
+"2503","Louis Fackler",1
+"2504","louise kidder early career award",1
+"2505","Lourdes Morales",1
+"2506","Love",1
+"2507","lowrider",1
+"2508","lubeck",1
+"2510","Luis Valdez",1
+"2511","lunar dichotomy",1
+"2512","lunar dynamo",1
+"2514","luncheon",1
+"2515","luther",1
+"2516","luthiers",1
+"2517","ly",1
+"2519","Lyn Walker",1
+"2520","Lynda Rogers",1
+"2524","Maccabiah Day games",1
+"2525","machinal",1
+"2526","machotka chairs",1
+"2527","Mackey",1
+"2528","mad men",1
+"2530","madison avenue",1
+"2531","Madonna",1
+"2532","magnetized moon rocks",1
+"2533","MAH",1
+"2535","Maitra Lecture",1
+"2536","make up",1
+"2538","mammalian dive response",1
+"2539","mammoth steppe",1
+"2541","mandolin",1
+"2542","mandolin symposium",1
+"2543","mangel",1
+"2544","Manny Ares",1
+"2546","manzanita",1
+"2547","map",1
+"2549","marc mangel",1
+"2551","Marc Shaffer",1
+"2552","Marc Vartabedian",1
+"2554","march 4",1
+"2556","margaret gibson",1
+"2557","Margaret Wilson",1
+"2558","margon",1
+"2559","marhall islands",1
+"2560","Maria Schonbek",1
+"2561","Mariana Islands",1
+"2562","Marianne Walpert",1
+"2563","Marilyn Walker",1
+"2564","marine biologist Kelly Newton",1
+"2565","marine invertebrates",1
+"2566","Marine Life Protection Act",1
+"2567","marine mammal behavior",1
+"2568","Marine Mammal Physiology Project",1
+"2572","marine predators",1
+"2573","marine protected areas",1
+"2574","marine reserves",1
+"2575","marine science",1
+"2576","marine sciences",1
+"2577","Marissa Fessenden",1
+"2578","Mariza Cortez-Cota",1
+"2582","Mark Franco",1
+"2583","Mark Franko",1
+"2585","Mark Schaeffer",1
+"2586","Mark Stone",1
+"2587","Mark Traugott",1
+"2588","markets",1
+"2590","marriage proposal",1
+"2591","Mars",1
+"2592","marsh sandwort",1
+"2593","Marshall scholarship",1
+"2594","Martha E. Morello-Frosch",1
+"2595","Martha Graham",1
+"2596","Marti Noxon",1
+"2597","Martin Abadi",1
+"2598","Martin Blaser",1
+"2599","Martin Luther King Convocation",1
+"2600","martin luther king jr.",1
+"2601","Martin Luther King Jr. Convocation",1
+"2603","martin rees",1
+"2604","Marvel comics",1
+"2605","mary beth pudup",1
+"2606","Mary Doyle",1
+"2608","mary-kay gamel",1
+"2609","mas bebes",1
+"2611","massacre",1
+"2612","Master Plan",1
+"2613","master's",1
+"2614","maternity",1
+"2615","mathematical biology",1
+"2616","mathematical origami",1
+"2617","matsutake",1
+"2618","Matt O'Hara",1
+"2619","Matt Seeberger",1
+"2620","matt skenazy",1
+"2621","Matthew Clapham",1
+"2624","Mavericks",1
+"2625","Max Haeussler",1
+"2626","Max Levin",1
+"2627","Max Palmer",1
+"2628","maya rudolph",1
+"2630","mayanthi fernando",1
+"2631","Mayumba",1
+"2632","mcginty",1
+"2633","McGroddy Prize",1
+"2635","McHenry closure",1
+"2636","mchenry library",1
+"2638","McNally Fire",1
+"2639","measure 43",1
+"2640","meatless monday",1
+"2641","Meatless Mondays",1
+"2643","Mechatronics",1
+"2644","MedBook",1
+"2645","media",1
+"2646","media government",1
+"2647","media impact",1
+"2648","media systems",1
+"2650","medieval history",1
+"2651","meetups",1
+"2652","Meg Eppel",1
+"2653","Meg Zweiback",1
+"2654","Meghan Powers",1
+"2655","meister",1
+"2656","melanocortin pathway",1
+"2657","Melinda Soares",1
+"2658","melissa caldwellSSa",1
+"2659","Melissa Cline",1
+"2660","melissa L. Caldwell",1
+"2661","Melissa Liu",1
+"2662","Melissa Ng",1
+"2663","Mellon Foundation",1
+"2664","memoir",1
+"2665","Memorial Day Ceremony",1
+"2667","men's basketball",1
+"2668","Men's tennis",1
+"2669","Men's volleyball",1
+"2670","mentors",1
+"2671","merced",1
+"2673","mercury in coastal fog",1
+"2674","mercury in fog",1
+"2675","mercury pollution",1
+"2676","Meredith heil",1
+"2677","merit increases",1
+"2678","merit-based raises",1
+"2679","Merriam Award",1
+"2680","merrill",1
+"2681","merrill college",1
+"2682","Merrill College provost",1
+"2685","metro",1
+"2686","METX",1
+"2689","mexican dance",1
+"2690","Mexican history",1
+"2692","mexicans",1
+"2693","Mexico",1
+"2694","mexus",1
+"2695","MFC",1
+"2696","micah perks",1
+"2697","Micah Perks",1
+"2699","Michael Bishop",1
+"2702","Michael Gerber",1
+"2704","michael Mann",1
+"2705","Michael Mann",1
+"2707","Michael Nauenberg",1
+"2709","Michael Riepe",1
+"2710","michael scherer",1
+"2711","Michael Stone",1
+"2712","Michael Turner",1
+"2713","Michael Urban",1
+"2714","michael wilson",1
+"2715","mickey hart",1
+"2716","microbial fuel cell",1
+"2717","microbial production of hydrogen",1
+"2718","microcystin",1
+"2719","microgrids",1
+"2720","microscopy",1
+"2721","middle east",1
+"2722","Middle Eastern music",1
+"2723","middle school",1
+"2724","midwife",1
+"2725","midwives",1
+"2726","migrant children",1
+"2729","Mike Bolte",1
+"2730","mike marshall",1
+"2731","mike tyson",1
+"2732","milestone",1
+"2733","military",1
+"2734","military sonar",1
+"2735","military veterans",1
+"2737","Milky Way outer halo",1
+"2738","miller",1
+"2739","milwaukee",1
+"2740","minority business",1
+"2741","Miocene climate",1
+"2742","miriam ellis",1
+"2743","miriam greenberg",1
+"2744","Miriam Landesman",1
+"2745","Missing Microbes",1
+"2747","mitochondria",1
+"2748","mlk",1
+"2750","MLPA",1
+"2751","mobile radar",1
+"2752","MOCVD",1
+"2753","model un",1
+"2754","modern china",1
+"2755","modern fiction",1
+"2756","modern poetry",1
+"2757","moisander",1
+"2758","Monday",1
+"2759","Mongolia",1
+"2761","monk seal toy",1
+"2762","Monte Brill",1
+"2763","Monterey Bay Aquarium",1
+"2764","monterey news",1
+"2766","moon impact",1
+"2767","moon rocks",1
+"2768","moons of Saturn",1
+"2769","Moore Foundation",1
+"2770","morals and markets",1
+"2771","More Honors",1
+"2772","morris ratner",1
+"2773","most distant galaxy",1
+"2774","motor learning",1
+"2778","mountain view puma",1
+"2779","Mountains",1
+"2782","movies",1
+"2783","moving parts press",1
+"2784","mueseum news",1
+"2785","muisc",1
+"2786","Multicultural Festival",1
+"2787","multiculturalism",1
+"2788","murphy",1
+"2789","murray baumgarten",1
+"2790","Murray Baumgarten",1
+"2791","murry schekman",1
+"2795","Museum of Natural History",1
+"2797","museums",1
+"2798","mushroom",1
+"2800","Music",1
+"2801","music cognition",1
+"2803","music news",1
+"2806","myanmar",1
+"2807","myotonic muscular dystrophy",1
+"2810","Nadine Gassner",1
+"2811","Nagamine Project",1
+"2816","nanopore sequencer",1
+"2817","nanopore sequencing",1
+"2818","nanopore technology",1
+"2820","Naomi glenn-levin",1
+"2821","Naomi Shihab Nye",1
+"2822","naples",1
+"2823","napolitano",1
+"2824","Narinder Kapany",1
+"2825","Narinder Kapany Professorship in Entrepreneurship",1
+"2826","Narinder Singh Kapany",1
+"2827","Narinder Singh Kapany professorship in entrepreneurship",1
+"2828","narrative and the politics of identity",1
+"2829","narrative evaluation",1
+"2831","NASW",1
+"2832","natalie rold",1
+"2833","nathaniel deutsch",1
+"2835","nathaniel mackey",1
+"2838","National Chemistry Week",1
+"2839","national conference for Media Reform",1
+"2840","National Congress of American Indians",1
+"2841","National Distracted Driving Awareness Month",1
+"2842","national elections",1
+"2844","National Geographic",1
+"2845","National HAB Committee",1
+"2846","national identity",1
+"2849","native",1
+"2850","Natonal Science Foundation grants",1
+"2851","natural gas outage",1
+"2853","natural history field quarter",1
+"2854","natural language processing",1
+"2855","Natural Reserve System",1
+"2857","NBC bay area",1
+"2858","nci",1
+"2859","NCI Cancer Genomics Cloud Pilot",1
+"2861","NCWIT Pacesetters",1
+"2862","Neandertal genome",1
+"2863","neanderthal",1
+"2865","nebraska",1
+"2866","Neel Sundaresan",1
+"2867","NEH nomination",1
+"2868","Nellie Chu",1
+"2869","nelson",1
+"2870","Neoklis Polyzotis",1
+"2871","NERSC",1
+"2872","nest cameras",1
+"2874","network and digital technology",1
+"2875","Network Sciences Institute",1
+"2876","neural prostheses",1
+"2877","neuroscience",1
+"2878","neutron star binaries",1
+"2879","new academic year",1
+"2881","new children's books",1
+"2882","new fall 2012 films",1
+"2883","new fiction",1
+"2884","New Leaf Markets",1
+"2886","new media exhibitions",1
+"2887","new orleans",1
+"2888","new orleans photos",1
+"2889","new orlelans culture",1
+"2891","New Queer Cinema",1
+"2892","new technology",1
+"2894","new year begins",1
+"2895","New York",1
+"2896","new york times",1
+"2897","new yorker",1
+"2898","New-York Historical Society",1
+"2899","Newcomb Cleveland Prize",1
+"2901","news  news",1
+"2902","News emmys",1
+"2903","NEXRAD",1
+"2904","NExSS",1
+"2905","NHC",1
+"2906","nicaragua",1
+"2907","nicholas meriwether",1
+"2910","Nick Lounsbury",1
+"2911","nicolas cage",1
+"2913","Nicole Thometz",1
+"2916","Night",1
+"2917","NIH",1
+"2919","Nina Grove",1
+"2920","nirvikar",1
+"2921","nitric oxide",1
+"2923","NMR Facility",1
+"2924","NMR Spectroscopy",1
+"2925","no smoking",1
+"2928","Nobby Kobayashi",1
+"2930","Non Grieving Empty Nesters",1
+"2931","non-fiction",1
+"2933","norris",1
+"2935","north campus",1
+"2936","North Pacific Subtropical Gyre",1
+"2937","Northern California Book Award",1
+"2938","northern california theater",1
+"2939","northern elephant seal",1
+"2940","notable  alumni",1
+"2942","novelists",1
+"2943","November 28",1
+"2944","Noyce Scholarships",1
+"2947","NSF",1
+"2948","NSF Bridge to the Doctorate",1
+"2950","NSF MRI",1
+"2951","NSF REU",1
+"2952","nuclear policy",1
+"2953","nuclear studies",1
+"2954","nudibranch",1
+"2955","Nurse Jackie",1
+"2956","nutrition",1
+"2957","oakes",1
+"2958","Oakes",1
+"2959","Oakes College",1
+"2960","Oakes Science Community",1
+"2961","obama",1
+"2962","Obama",1
+"2963","Obama meets Kavli Prize winners",1
+"2964","obesity",1
+"2965","obituary",1
+"2967","ocean",1
+"2969","ocean acidification and coral reefs",1
+"2970","ocean carbon cycle",1
+"2971","ocean drilling program",1
+"2972","ocean ecology",1
+"2973","ocean health",1
+"2975","ocean protection council",1
+"2976","ocean sciences",1
+"2977","oceanography",1
+"2978","oceans",1
+"2979","OCR",1
+"2980","off Broadway",1
+"2981","offensive",1
+"2982","office hours",1
+"2983","Office of Civil Rights",1
+"2984","office of research",1
+"2985","office of the president",1
+"2986","office ours",1
+"2987","oiled sea otters",1
+"2988","Okaeri project",1
+"2989","oldest southern sea otter",1
+"2991","olga najéra-ramírez",1
+"2992","olive ridley",1
+"2993","olive ridley sea turtles",1
+"2994","olive ridley turtles",1
+"2995","oliver johnson",1
+"2996","olsen",1
+"2997","Olympia oysters",1
+"2998","one-woman show",1
+"2999","online",1
+"3000","open data",1
+"3002","open house",1
+"3003","open science",1
+"3004","openlab",1
+"3006","opera program",1
+"3007","operating system",1
+"3009","opinion",1
+"3010","opportunities",1
+"3011","oprah winfrey",1
+"3012","optical communications",1
+"3013","optical coupling",1
+"3015","optoelectronics",1
+"3016","optofluidic chip",1
+"3018","oral histories",1
+"3019","oral history",1
+"3022","organic farm movmement",1
+"3026","origami",1
+"3027","origin of life",1
+"3028","origin of moon",1
+"3029","origins of life",1
+"3030","orin martin",1
+"3031","OSA",1
+"3032","OSA Fellow",1
+"3033","oscars",1
+"3034","oscars news",1
+"3035","osx",1
+"3036","otters",1
+"3037","Our Ocean Backyard",1
+"3041","Outstanding Faculty Award",1
+"3043","ovarian cancer",1
+"3044","overfishing",1
+"3045","owls",1
+"3046","Oxford Nanopore Technologies",1
+"3047","P granules",1
+"3049","P5",1
+"3050","Pablo Saz Parkinson",1
+"3051","Pacesetters",1
+"3052","Pacific Decadal Oscillation",1
+"3053","Pacific Ocean animal migrations",1
+"3054","Pacific Rim",1
+"3055","Pacific Rim Film Festival",1
+"3056","Pacific Rim Music Festival",1
+"3057","Pacific Union College",1
+"3058","packard",1
+"3059","Packard Fellowship",1
+"3060","packard foundation",1
+"3061","Packard Foundation",1
+"3062","padgett",1
+"3063","page smith",1
+"3065","Pajaro Valley",1
+"3066","pajaro valley schools",1
+"3067","pajaro valley unified school district",1
+"3068","paleoceanography",1
+"3069","paleoclimatology",1
+"3070","paleogenomics",1
+"3071","palestine",1
+"3072","palestinian",1
+"3073","Palestinian American",1
+"3074","Palestinian Christians",1
+"3075","pallid bat",1
+"3076","palm oil. archaeolgy",1
+"3077","Pan-Cancer",1
+"3079","Pan-Cancer Project",1
+"3080","pandey",1
+"3081","Panofsky Prize",1
+"3082","Panunzio Award",1
+"3083","PAPAS",1
+"3084","paper towels",1
+"3085","parents",1
+"3086","parkcard",1
+"3089","parking space",1
+"3090","Particle Fever",1
+"3091","particle physics",1
+"3092","party",1
+"3094","Pascale Garaud",1
+"3095","Pasolini",1
+"3096","pasotti",1
+"3097","passage",1
+"3098","pat",1
+"3099","Pat Mantey",1
+"3101","patent acknowledgement",1
+"3102","pathway analysis",1
+"3103","patience",1
+"3104","patient privacy",1
+"3106","Patrick Chuang",1
+"3108","Patrick Graybill",1
+"3109","patton",1
+"3110","Paul Hall",1
+"3113","Paul Skenazy",1
+"3114","Paul Whitworth",1
+"3115","Paula and Bruce Tomlinson",1
+"3116","Payam Yousefi",1
+"3117","PBS",1
+"3118","PBSCI",1
+"3119","Peabody Award",1
+"3121","Peace Corps participation",1
+"3123","peak oil",1
+"3124","PEC",1
+"3125","PEC-MFC",1
+"3127","Peer Gynt",1
+"3129","pelican bay",1
+"3130","Penny Ice Creamery",1
+"3132","pepperdine",1
+"3134","peregrine falcon",1
+"3135","Perseid meteor shower",1
+"3136","personal genomics",1
+"3137","personal medicine",1
+"3138","personalized cancer care",1
+"3140","pertechnetate",1
+"3141","Peru",1
+"3142","PETA",1
+"3143","PETA2",1
+"3144","petabyte scale storage",1
+"3145","petabyte storage system",1
+"3148","Peter Bratt",1
+"3149","Peter Coha",1
+"3151","Peter Fischer",1
+"3152","Peter Kenez",1
+"3154","Peter Raven",1
+"3155","Peter Sellars",1
+"3156","peter Stein",1
+"3157","Peter Weiss-Penzias",1
+"3159","Peter Yu",1
+"3161","Pew Fellow in Marine Conservation",1
+"3162","Pew Fellowship in Marine Conservation",1
+"3163","Pew Scholar in the Biomedical Sciences",1
+"3164","Pew Scholars Program",1
+"3165","Peyman Milanfar",1
+"3166","pge",1
+"3167","Phd programs in feminist studies",1
+"3168","Phil Berman",1
+"3169","Phil Crews",1
+"3171","philantrhopy",1
+"3172","Philips Lumileds",1
+"3173","Phillip Berman",1
+"3175","Phillip Hammack",1
+"3177","philosophy deparmtent",1
+"3178","philosophy department",1
+"3179","philosophy news",1
+"3180","phlush",1
+"3182","photogphy",1
+"3184","photography contest",1
+"3185","photography news",1
+"3186","photojournalist",1
+"3187","photonics",1
+"3188","photovoltaic cells",1
+"3189","phthalate alternatives",1
+"3190","phthalate chemistry",1
+"3191","phthalates",1
+"3192","PhyloSusceptibility model",1
+"3194","Physical and Biological Sciences Dean",1
+"3195","physical plant",1
+"3196","physical sciences",1
+"3198","Physics World",1
+"3199","picnic",1
+"3200","Picts",1
+"3202","pikas and climate change",1
+"3203","Pinniped Lab",1
+"3204","pioneer class",1
+"3205","PISCO",1
+"3206","PKS 1424+240",1
+"3209","planet discoveries",1
+"3211","planet formation",1
+"3212","planetary systems",1
+"3213","Planned gift",1
+"3214","planned giving",1
+"3216","planning and budget",1
+"3217","plant diseases",1
+"3218","plant ecology",1
+"3219","plant sale",1
+"3220","plasmonic biosensor",1
+"3221","plasmonic nanohole arrays",1
+"3222","Pliocene Warm Period",1
+"3223","Plum TV",1
+"3225","Poet laureate of County",1
+"3226","poetrey society of american",1
+"3228","poetry  . morton marcus",1
+"3229","poetry  humanities division",1
+"3230","poetry  literature",1
+"3231","poetry foundation",1
+"3233","poetry society of america",1
+"3235","poison oak",1
+"3236","poison oak spray",1
+"3237","polar bear genetics",1
+"3238","polar bears",1
+"3240","police chief",1
+"3241","police training",1
+"3242","political psychology",1
+"3244","poll tax",1
+"3245","pollination",1
+"3246","popular culture news",1
+"3247","porter",1
+"3248","Porter circle",1
+"3249","porter college",1
+"3250","Posidonia oceanica",1
+"3251","post blackness",1
+"3252","post-employment benefits",1
+"3253","Poundstone",1
+"3254","power outage",1
+"3256","precision medicine",1
+"3258","Predatory Bird Research Group",1
+"3261","PREP",1
+"3262","President Clark Kerr",1
+"3263","president obama",1
+"3264","President Obama",1
+"3265","President's Faculty Research Awards",1
+"3266","President's Research Catalyst Awards",1
+"3267","Presidential Match for Endowed Chairs",1
+"3268","press",1
+"3269","prevention",1
+"3273","primordial gas clouds",1
+"3274","princess grace awards",1
+"3275","princeton review",1
+"3279","prions",1
+"3280","priorities",1
+"3282","private support",1
+"3283","Priya Ganguli",1
+"3284","prizes",1
+"3285","pro-racing",1
+"3286","programmable desktop 3-D router",1
+"3287","progress",1
+"3289","project GRAD los angeles",1
+"3290","Prom Week",1
+"3291","promise for education",1
+"3292","Prop. 8",1
+"3293","property",1
+"3294","proposition 30",1
+"3295","Proposition 30",1
+"3296","prostate cancer",1
+"3297","protected springs",1
+"3299","protests",1
+"3300","proton computed tomography",1
+"3301","proton ct",1
+"3302","proton CT",1
+"3303","proton radiography",1
+"3305","proton tomography",1
+"3307","Pseudo-nitschia",1
+"3308","psychobiology",1
+"3309","psycholinguistics",1
+"3310","Psychological Science",1
+"3313","public health art",1
+"3314","public outreach",1
+"3315","public safety",1
+"3316","public service",1
+"3317","pulsars",1
+"3320","Puma Project",1
+"3321","pumas",1
+"3322","Punjab Technical University",1
+"3323","Punjabi",1
+"3325","puppetry",1
+"3327","Puragra GuhaThakurta",1
+"3328","Putin",1
+"3331","quality education",1
+"3333","Quarry Amphitheater Project",1
+"3335","quasars",1
+"3336","queer cinema",1
+"3337","Queralt Vallmajo Martin",1
+"3339","R&D 100 Award",1
+"3341","race and media",1
+"3342","rachael robnett",1
+"3343","Rachel Barnett-Johnson",1
+"3344","Rachel Carson Lecture",1
+"3345","Rachel Howzell Hall",1
+"3346","Rachel Johnson",1
+"3347","Rachel Louise Carson Lecture",1
+"3348","racial equality",1
+"3349","racial politics",1
+"3351","Rad American Women A-Z",1
+"3352","radar",1
+"3353","Radcliffe Fellow",1
+"3354","Radcliffe Fellows Program",1
+"3355","Radhika Mitra",1
+"3356","radiation",1
+"3357","Rafael Zamarripa",1
+"3358","Rahsheka Keith",1
+"3360","rainforest conservation",1
+"3362","Raja GuhaThakurta",1
+"3363","randall graham",1
+"3364","Randall Grahm",1
+"3367","rare species advantage",1
+"3368","RAS",1
+"3369","Raven II",1
+"3372","raymond carver",1
+"3373","Raymundo Reyes",1
+"3374","re-entry student",1
+"3375","reading",1
+"3376","reading in America",1
+"3377","real food commitment",1
+"3378","Real Seal",1
+"3380","Rebecca DuBois",1
+"3381","rebels and revolutions",1
+"3382","rebenching",1
+"3383","reception",1
+"3384","recharge",1
+"3385","recharge pond",1
+"3386","record",1
+"3387","record number of applications",1
+"3389","Recreation Department",1
+"3390","recruitment",1
+"3391","recruitments",1
+"3393","Red Bull Youth Americas Cup",1
+"3397","reference genome",1
+"3398","Refine for Men",1
+"3399","reflectance paper",1
+"3402","regents meeting budget",1
+"3403","Regional History Project",1
+"3404","regional program",1
+"3405","Relentless Evolution",1
+"3406","religion",1
+"3407","Rem Stone",1
+"3408","Renaissance Now",1
+"3409","renee tajima-pena",1
+"3410","Renee Tajima-Pena",1
+"3411","renee tajima-peña",1
+"3412","reneee tajima-pena",1
+"3414","renewable energy certificates",1
+"3415","renewable energy microgrids",1
+"3417","research 1 university",1
+"3418","research excellence",1
+"3419","research frontiers day",1
+"3423","research symposium",1
+"3424","resources",1
+"3425","responding to violence",1
+"3426","response",1
+"3427","restoration ecology",1
+"3430","retinal implant",1
+"3431","retinal lesions",1
+"3432","retinoblastoma",1
+"3433","retire",1
+"3434","retired",1
+"3437","retirement system",1
+"3438","retrofit",1
+"3439","retrotransposons",1
+"3441","Reunion Weekend",1
+"3442","reunion weekend  go to your happy place",1
+"3443","revenues",1
+"3444","Reverend Deborah Johnson",1
+"3446","revised layoff policy",1
+"3447","reyna grande",1
+"3448","Reyna Grande",1
+"3450","rian dundon",1
+"3452","Ricardo Sanfelice",1
+"3454","richard E. green",1
+"3456","richard green",1
+"3458","richard harris",1
+"3459","Richard Hughey",1
+"3460","Richard Mitchell",1
+"3461","Richard Montgomery",1
+"3462","Rick Barlow",1
+"3463","Rick Flores",1
+"3464","Ricketts Lecture",1
+"3465","Ricketts Memorial Lecture",1
+"3466","right to the city",1
+"3467","right-populism",1
+"3468","rising sea level",1
+"3469","Rita Mehta",1
+"3470","rita pister",1
+"3471","Rita Walker",1
+"3472","river herring",1
+"3473","RNA splicing",1
+"3474","Rob Fairlie",1
+"3475","rob irion",1
+"3476","Rob Irion",1
+"3477","Rob Lord",1
+"3478","rob wilson",1
+"3479","Rob Wilson",1
+"3480","robb",1
+"3481","robbery",1
+"3482","Robert Coe",1
+"3483","robert dawson",1
+"3484","robert deMayo",1
+"3486","Robert Johnson",1
+"3487","Robert Kirshner",1
+"3488","Robert Moses MLK convocation Tony Hill award",1
+"3494","robotics engineering",1
+"3495","rock and roll",1
+"3496","rock and roll hall of fame",1
+"3497","rock vibe",1
+"3498","rock-paper-scissors",1
+"3500","Roman",1
+"3501","ron glass",1
+"3502","ron yerxa",1
+"3503","Ron Yerxa",1
+"3504","ronald glass",1
+"3505","Ronald Schusterman",1
+"3507","Ronnie Lipschutz",1
+"3508","Rosa Parks African American Theme House",1
+"3509","rosa-linda fregoso",1
+"3510","Ross Clark",1
+"3511","rossi",1
+"3512","Rossi Prize",1
+"3513","rotary club",1
+"3514","rotary foundation",1
+"3515","rothman",1
+"3516","rotkin",1
+"3517","Royal Astronomical Society",1
+"3518","RRD",1
+"3519","Ruiz",1
+"3520","Russ Flegal",1
+"3521","Russell Award",1
+"3523","Russell Lectureship",1
+"3524","Russia",1
+"3525","russian cottages",1
+"3526","russian jewry",1
+"3527","russian jews",1
+"3528","Ruth Crook",1
+"3529","Ruth Langridge",1
+"3530","Ryan Shannon",1
+"3531","Rydell fellowships",1
+"3535","Sacramento",1
+"3536","SAFE",1
+"3537","Sage Weil",1
+"3539","Sahni",1
+"3540","Salaz",1
+"3541","salmon",1
+"3542","salmon population",1
+"3545","Sam Rosenberg",1
+"3546","same sex marriage",1
+"3547","sammy",1
+"3548","Sammy Awards",1
+"3549","Sammy the Slug",1
+"3550","Samuel Rosenberg",1
+"3552","san francisco film society",1
+"3553","San Francisco history",1
+"3554","San Francisco International LGBT Film Festival",1
+"3555","San Francisco manzanita",1
+"3556","san francisco news",1
+"3557","San Jose/Silicon Valley Business Journal",1
+"3558","Sanctuary Currents",1
+"3563","santa  cruz",1
+"3564","Santa Barbara",1
+"3565","Santa Cruz Cancer Benefit Group",1
+"3566","Santa Cruz Tickets",1
+"3567","santac ruz",1
+"3568","SAP Open",1
+"3570","Sara Gorchoff",1
+"3571","Sara Maxwell",1
+"3572","sarah bakker",1
+"3573","Sarah Chee",1
+"3574","Sarah Gerhardt",1
+"3575","Sasha Sher",1
+"3577","Saturday Stars",1
+"3579","Saturn's moons",1
+"3581","satyajit ray film and study center",1
+"3582","satyajit ray lecture",1
+"3583","saul landau",1
+"3584","Sautter Award",1
+"3585","Savannah Shaughnessy",1
+"3586","save water",1
+"3587","SB Master",1
+"3589","Schlanger Fellowship",1
+"3590","schmoozing",1
+"3594","scholarship benefit dinnner",1
+"3597","Science and Engineering Library",1
+"3598","science cafe",1
+"3600","Science Communication",1
+"3602","Science Community",1
+"3603","science education",1
+"3604","science fair",1
+"3605","Science Internship Program",1
+"3606","Science Internship Program ",1
+"3607","science journalism",1
+"3608","science news",1
+"3610","Science on Tap",1
+"3612","science writing program",1
+"3613","Science Writing Program",1
+"3614","scientific diving",1
+"3615","scientific research",1
+"3616","Scientific Slug",1
+"3618","scmtd",1
+"3619","Scotland",1
+"3620","scott berlin",1
+"3623","Scott Oliver",1
+"3624","SCOTUS",1
+"3625","SCPBRG",1
+"3626","SCUP",1
+"3627","SDSS",1
+"3629","sea level",1
+"3631","Sea of Okhotsk earthquake",1
+"3632","Sea Otter Awareness Week",1
+"3636","sea otter survey",1
+"3637","sea otter Taylor",1
+"3639","sea star associated densovirus",1
+"3640","sea star wasting disease",1
+"3642","sea stars",1
+"3643","seafloor mapping",1
+"3644","seagrass",1
+"3645","seagrass restoration",1
+"3647","searches",1
+"3648","Searle Scholars",1
+"3649","Searle Scholars Program",1
+"3650","seas",1
+"3654","second harvest holiday food drive",1
+"3655","security housing unit",1
+"3656","security report",1
+"3657","seismic airguns",1
+"3658","Seismological Society of America",1
+"3660","sell high",1
+"3661","semantics Linguistic Society of America",1
+"3663","Senate",1
+"3664","sendai earthquake",1
+"3665","Senior Design Contest",1
+"3667","Sentinel",1
+"3668","service",1
+"3669","Services for Transfer and Re-entry Services",1
+"3674","SETI",1
+"3675","sex discrimination",1
+"3676","sexual assault",1
+"3677","sexual assault awareness",1
+"3678","sexy beijing",1
+"3681","sf art installation",1
+"3682","sf essential",1
+"3683","sf giants",1
+"3684","SF Sketchfest",1
+"3685","SFLGBT film festival",1
+"3686","shade-crown coffee",1
+"3687","shailja patel",1
+"3689","shakespeare   shakespeare",1
+"3690","shakespeare   theater",1
+"3691","shakespeare  theater arts department",1
+"3692","shakespeare banana slug",1
+"3693","shakespeare culture",1
+"3694","Shakespeare Dickens Universe",1
+"3696","shakespeare news from  news from",1
+"3698","shakespeare summer theater festivals",1
+"3700","shakespeare theater arts",1
+"3701","shaksepeare shakespeare",1
+"3702","Shane Telescope",1
+"3703","shannon brownlee",1
+"3704","Shannon Brownlee",1
+"3705","shapiro",1
+"3706","sharath sury",1
+"3708","shark pool",1
+"3709","sharks",1
+"3710","sharks and rays",1
+"3711","Sharon Stammerjohn",1
+"3712","Shawn Cervantes",1
+"3713","shebooks",1
+"3714","shelley stamp",1
+"3715","shelly grabe",1
+"3716","shelter",1
+"3717","Sher",1
+"3718","shintoism",1
+"3719","Shipley",1
+"3720","shootings",1
+"3721","SHOP",1
+"3722","SHU",1
+"3723","side-blotched lizard",1
+"3724","sierra club",1
+"3725","sifuentes",1
+"3726","Sigma Delta Epsilon",1
+"3727","signal processing",1
+"3730","Sikh and Punjabi Studies",1
+"3731","sikh studies",1
+"3733","silicon valley",1
+"3737","sillicon valley",1
+"3738","SIMA Environmental Fund",1
+"3740","singh",1
+"3741","Sinsheimer Lecture",1
+"3743","sirs",1
+"3744","Sittercity",1
+"3745","skin care",1
+"3746","SkyTEM",1
+"3747","slave trade",1
+"3749","Sloan Digital Sky Survey",1
+"3753","slow light",1
+"3754","slug",1
+"3755","slug golf scramble",1
+"3756","slug jerseys",1
+"3758","slug tennis",1
+"3759","Slug to Slug",1
+"3760","SLUG-26",1
+"3761","slug-o-lete",1
+"3762","SLUG!OUYA",1
+"3763","slugs",1
+"3764","smart camera networks",1
+"3765","smart grid",1
+"3766","SmartFish",1
+"3767","smith",1
+"3770","smithsonian",1
+"3771","smoking ban",1
+"3772","SMSC",1
+"3773","soc doc",1
+"3774","social change",1
+"3775","social documentaries",1
+"3776","social documentary program",1
+"3779","Social Documentation Program",1
+"3780","social impact",1
+"3787","Social Sciences",1
+"3788","social sciences at  Gabriel Giffords",1
+"3789","social sciences distinguished awards",1
+"3790","social sciences division",1
+"3791","social security payroll tax",1
+"3792","social studies",1
+"3793","Societe Generale",1
+"3794","Society for College and University Planning",1
+"3795","Society for the Anthropology of Europe",1
+"3796","Society for the Anthropology of North America",1
+"3799","software engineering",1
+"3800","Solana Pyne",1
+"3801","solar cells",1
+"3802","solar concentrator",1
+"3804","solar hydrogen generation",1
+"3805","solar power",1
+"3806","solar system",1
+"3807","solar-microbial device",1
+"3808","solitary confinement",1
+"3809","sonar and whales",1
+"3810","Song of Solomon",1
+"3812","Sora Kim",1
+"3813","sound",1
+"3814","southern elephant seal",1
+"3816","southern sea otter population",1
+"3817","soviet union",1
+"3818","Soviet Union",1
+"3819","soviets",1
+"3820","spanish",1
+"3821","spanish bachleor of arts degree",1
+"3822","spanish studies",1
+"3823","special collections",1
+"3825","spencer",1
+"3827","Spielberg's Lincoln",1
+"3828","spike lee",1
+"3829","spiritual",1
+"3830","spoken dialogue systems",1
+"3831","sports ethics",1
+"3832","spotted seals",1
+"3834","spring arts events",1
+"3835","spring break",1
+"3836","spring forum",1
+"3839","spring spotlight",1
+"3840","spring visitors",1
+"3842","Sriram Shastry",1
+"3844","stacy philpott",1
+"3845","stacy Philpott",1
+"3847","staff advisory board",1
+"3848","staff appreciation picnic",1
+"3850","staff picnic",1
+"3851","Staff picnic",1
+"3852","Staff Regent",1
+"3853","Stand Up To Cancer",1
+"3854","Stanley Prusiner",1
+"3855","star clusters",1
+"3856","star formation",1
+"3858","START",1
+"3859","state",1
+"3860","State Assemblymember Bill Monning",1
+"3862","State of Minds",1
+"3863","state of the state",1
+"3864","State of the Union",1
+"3865","steck",1
+"3866","Steck Family Award",1
+"3867","steel",1
+"3868","steelhead",1
+"3869","Stefano Meschiari",1
+"3872","stem cell genomics",1
+"3873","stem cell research",1
+"3874","stem cells and aging",1
+"3876","STEM Diversity",1
+"3877","STEM Diversity Programs",1
+"3878","STEM pipeline",1
+"3879","stem teachers",1
+"3880","STEM teaching",1
+"3881","Stephan Munch",1
+"3882","stephen abreu",1
+"3884","Stephen Bruce",1
+"3885","stephen colbert",1
+"3886","Stephen McCabe",1
+"3887","Stephen Nelson",1
+"3889","Steve Benz",1
+"3890","Steve Blank",1
+"3892","Steve Clabuesch",1
+"3893","Steve Collins",1
+"3897","Steve Schnaidt",1
+"3898","steve swallow",1
+"3900","Steve Whittaker",1
+"3901","Steven Collins",1
+"3903","steven vogt",1
+"3905","stevenson",1
+"3906","stewardship",1
+"3907","stewart",1
+"3908","STING",1
+"3909","stock assessment",1
+"3911","storage systems research",1
+"3912","Storage Systems Research Center",1
+"3913","storm chaser",1
+"3914","storytelling",1
+"3915","stovall",1
+"3918","Strauss Foundation",1
+"3919","strawberries and justice",1
+"3920","streets",1
+"3921","student",1
+"3922","student achievement",1
+"3925","student dance group",1
+"3926","student environmental center",1
+"3927","Student Experience Initiative",1
+"3928","student films",1
+"3929","Student Health",1
+"3932","student research",1
+"3934","student veteran scholaships",1
+"3935","Student Veterans of America",1
+"3938","study abroad",1
+"3939","SU2C",1
+"3940","submarine springs",1
+"3941","substance abuse",1
+"3942","succulent wreaths",1
+"3943","succulents",1
+"3944","suction feeding and biting",1
+"3946","Suicide Prevention",1
+"3947","sullivan",1
+"3948","Sumatra earthquake",1
+"3949","summer",1
+"3950","Summer Bridge Program",1
+"3951","summer camp",1
+"3952","summer conferences",1
+"3953","summer festivals",1
+"3955","summer research",1
+"3956","Summer Research Symposium",1
+"3958","summer theater",1
+"3959","Summer Undergraduate Research Symposium",1
+"3960","sun to fiber",1
+"3961","sundance",1
+"3962","Super Planet Crash",1
+"3965","supercourse",1
+"3966","supermassive black holes",1
+"3967","supernova remnant",1
+"3968","supernovas",1
+"3969","supersymmetry",1
+"3970","supreme court",1
+"3971","Supreme Court",1
+"3972","suresh lodha",1
+"3973","surgical robot",1
+"3974","surgical robots",1
+"3975","surveillance",1
+"3977","susan blackaby",1
+"3978","Susan Schwartz",1
+"3981","Susan Wojcicki",1
+"3982","suspects",1
+"3983","suspicious backpack",1
+"3984","sustainabile gardening",1
+"3987","sustainabiliy",1
+"3988","sustainabillity",1
+"3991","sustainable energy",1
+"3992","sustainable fisheries",1
+"3993","sustainablility",1
+"3995","Sutter Maternity & Surgery Center Central Coast Alliance for Health Primary Care Physician Award",1
+"3996","Sutter Scholarship",1
+"3997","Suzi Eszterha",1
+"3998","SVBJ",1
+"3999","swine flu",1
+"4000","sylvanna falcon",1
+"4001","sylvia earle",1
+"4002","Symantec",1
+"4003","symbiosis",1
+"4004","symphony silicon vallely",1
+"4005","syntax",1
+"4006","Syria",1
+"4007","Syriac Orthodox",1
+"4008","Syrian exiles",1
+"4009","Syrian refugees",1
+"4010","system wide committees",1
+"4011","Systemic Console",1
+"4012","Systemic exoplanet software",1
+"4013","systemic risk",1
+"4014","systemwide web chat",1
+"4015","Syz: EG",1
+"4016","T. Dale Stewart Award",1
+"4017","taal levi",1
+"4018","Tagging of Pacific Predators",1
+"4019","tagore",1
+"4021","talk",1
+"4022","Tamara Ball",1
+"4023","Tang museum",1
+"4024","tango",1
+"4025","tania cruz salazar",1
+"4026","Tanya Honig",1
+"4027","tanzania",1
+"4028","TanzSolar",1
+"4031","taren sterry",1
+"4032","TARGET program",1
+"4033","TAships",1
+"4035","taxidermy",1
+"4037","TDE",1
+"4039","teaching assistants",1
+"4040","teaching award",1
+"4041","Teaching Award",1
+"4042","teaching excellence",1
+"4043","teaching excellence award",1
+"4044","Teagle Foundation",1
+"4045","Team Krinoid",1
+"4046","technetium",1
+"4048","technology and information management",1
+"4049","Technology Management",1
+"4050","technology solutions",1
+"4051","Techonomy",1
+"4053","ted warburton",1
+"4054","TEDxSantaCruz",1
+"4055","telematics",1
+"4056","telescopes",1
+"4058","television industry",1
+"4059","television news",1
+"4060","telomerase",1
+"4061","telomerase and cancer",1
+"4062","telomeres",1
+"4064","terra fresca",1
+"4065","Terrence Roberts",1
+"4066","Terrence Roberts Rosa Parks African American Theme House",1
+"4067","terrie williams",1
+"4069","Terry Mast",1
+"4070","Terry Taylor",1
+"4072","Test",1
+"4074","Tex Winter",1
+"4075","thad nodine",1
+"4077","thanksgiving",1
+"4079","The Campaign for ",1
+"4080","The Campaign for  campaign priorities",1
+"4081","the distance between us",1
+"4084","The High Tones",1
+"4085","the Holocasut",1
+"4086","The Holocaust",1
+"4087","the mission",1
+"4088","The Nature Conservancy",1
+"4089","The New Universe and the Human Future",1
+"4090","the new yorker",1
+"4091","The Normal Heart",1
+"4092","the odyssey of a woman field scientist",1
+"4094","THE ranking",1
+"4095","THE rankings",1
+"4096","The Ten Thousand Things",1
+"4097","the trace",1
+"4098","The Trouble Alliance",1
+"4101","Theater Arts",1
+"4103","Theater Arts Department",1
+"4105","theatre",1
+"4106","theme housing",1
+"4107","thermoelectric devices",1
+"4108","thermoelectrics",1
+"4109","thin-film photovoltaics",1
+"4110","thin-film solar cells",1
+"4111","thin-film technology",1
+"4113","Thirty-Meter Telescope",1
+"4115","thomas F. pettigrew",1
+"4116","thomas jefferson",1
+"4117","Thomas Oechel",1
+"4119","thousand gates",1
+"4121","thumbs up",1
+"4122","Thumbs up",1
+"4123","Tiananmen square",1
+"4124","Tibet",1
+"4125","Tibetan government in exile",1
+"4126","tidal disruption event",1
+"4127","tidal streams",1
+"4128","TiE",1
+"4129","TiEcon",1
+"4130","tiffany white",1
+"4131","Tiffany White Stanton",1
+"4132","TIM",1
+"4133","Tim Morgan",1
+"4134","TIM Program",1
+"4136","Time 100 Most Influential",1
+"4137","Time magazine",1
+"4138","TIME magazine",1
+"4139","times higher education",1
+"4142","Titan ice shell",1
+"4143","Title IX",1
+"4145","tobacco free",1
+"4147","Todd Hollenbeck",1
+"4148","Todd Newberry",1
+"4150","tolerance",1
+"4151","tom",1
+"4152","Tom Abel",1
+"4153","Tom Beckett",1
+"4154","tom franco",1
+"4155","Tom Guilderson",1
+"4156","Tom Lantos Human Rights Commission",1
+"4157","tom pettigrew",1
+"4158","tom vani retirement",1
+"4159","Toni Morrison",1
+"4160","Tony Fink Memorial Lecture",1
+"4162","Tony Hill Memorial Award",1
+"4163","tool use by fish",1
+"4165","top secret america",1
+"4167","TOPP program",1
+"4168","Tour of California",1
+"4169","Touré’",1
+"4170","town-gown",1
+"4171","toxic algae",1
+"4172","toxics",1
+"4173","toxin",1
+"4174","Toys for Tots",1
+"4176","traffic advisory",1
+"4179","transfers",1
+"4180","transformative student experience",1
+"4181","transgenerational epigenetic inheritance",1
+"4182","transit of Venus",1
+"4183","transition",1
+"4184","translation",1
+"4185","translocation",1
+"4186","trash",1
+"4187","troncoso",1
+"4188","trophic cascade",1
+"4189","Tsering Wangmo Dhompa",1
+"4190","Tsugawa",1
+"4191","tsunami",1
+"4192","tucson",1
+"4193","Tuesday Newsday",1
+"4194","Tuguldur Sukhbold",1
+"4196","tupelo hassman",1
+"4197","turbidites",1
+"4199","tv serrana",1
+"4200","two-photon imaging",1
+"4202","u.s. district judge merrill college",1
+"4204","ucan",1
+"4205","UCC",1
+"4206","UCDC",1
+"4207","ucla",1
+"4214","UCTV",1
+"4215","UCUES",1
+"4216","UCYN-A",1
+"4217","ulcer-causing bacteria",1
+"4218","ultimate",1
+"4220","Undergraduate Achievement Week",1
+"4222","undergraduate experience",1
+"4224","undergraduate research opportunities",1
+"4225","undergraduates",1
+"4226","underprivileged students",1
+"4227","underrepresented",1
+"4228","undocumented",1
+"4229","UNESCO World Conference on Arts Education",1
+"4230","united nations",1
+"4232","United Way of County",1
+"4233","university",1
+"4234","University Affiliated Research Center",1
+"4235","University Associates",1
+"4236","University Extension Dean",1
+"4240","University Library's Special Collections",1
+"4241","university museums",1
+"4242","university online courses",1
+"4243","university online education",1
+"4245","university veteran enrollments",1
+"4247","urban studies",1
+"4248","Urey Prize",1
+"4249","ursula siataga",1
+"4250","urushiol",1
+"4251","us theater arts department",1
+"4252","USA Cheerleaders",1
+"4253","usc arts division",1
+"4254","uscc arts division",1
+"4255","uscs",1
+"4256","uscs arts division",1
+"4257","uscs film department",1
+"4258","uscs history department",1
+"4259","uscs music department",1
+"4260","uscs theater arts",1
+"4261","usda",1
+"4262","USGS",1
+"4263","ussc history department",1
+"4264","UWM",1
+"4266","van den abbeele",1
+"4267","Van Jones",1
+"4268","van pool",1
+"4269","vani",1
+"4270","VCR",1
+"4271","vector-borne zoonotic diseases",1
+"4273","vegetarian",1
+"4275","ventana wildlife society",1
+"4276","Verity's liveforever",1
+"4277","vertebrate evolution",1
+"4278","very high-energy gamma rays",1
+"4279","Vesta",1
+"4280","veteran students",1
+"4281","veterans",1
+"4282","Veterans Education Team Support",1
+"4283","VETS",1
+"4285","vice chancellor for information technology",1
+"4286","vice chancellor of research",1
+"4288","victim",1
+"4290","video documentaries",1
+"4293","video games for the blind",1
+"4294","video games news",1
+"4295","videogames",1
+"4296","vince chhabria",1
+"4299","violin",1
+"4300","viral hit",1
+"4301","virtual reality",1
+"4302","vision",1
+"4303","visionaries",1
+"4304","visual spatial reasoning",1
+"4305","vocal fry",1
+"4306","vogt",1
+"4307","voice",1
+"4308","volleyball",1
+"4309","volleyball coach",1
+"4311","voter turnout",1
+"4312","VPAA",1
+"4313","vpdue",1
+"4315","w-2",1
+"4316","W-2",1
+"4317","W. M. Keck Foundation",1
+"4318","wade davis",1
+"4319","Wal-Mart Success for Veterans Award Grants",1
+"4321","wandering stars",1
+"4322","War to Home",1
+"4323","Warner Prize",1
+"4324","Warriors",1
+"4326","waste",1
+"4328","Water",1
+"4329","Water polo",1
+"4330","water use",1
+"4331","WaterLab",1
+"4332","Waterman's Weekend",1
+"4333","Watsonville",1
+"4334","watsonville high",1
+"4335","weather radar",1
+"4336","Weber",1
+"4337","Weddell seals",1
+"4338","Wednesday November 7 2011",1
+"4339","Wednesday November 9",1
+"4340","weeds",1
+"4341","Weeds",1
+"4342","weight watchers",1
+"4343","weird college mascots",1
+"4344","weisberg",1
+"4347","Weldon Memorial Prize",1
+"4348","Wells Fargo",1
+"4349","Wentai Liu",1
+"4350","west africa",1
+"4351","West Antarctic ice sheet",1
+"4352","west bank",1
+"4353","West Coast Literary magazine",1
+"4354","west coast sea level rise",1
+"4356","Whale Tail grants",1
+"4357","whales",1
+"4358","wharf tours",1
+"4359","What is a Reader?",1
+"4361","white house",1
+"4362","White House",1
+"4363","white paper",1
+"4364","white sharks",1
+"4366","who is the real terrorist",1
+"4367","Why I Give",1
+"4368","Wijit",1
+"4369","wild salmon",1
+"4370","Wilder ranch",1
+"4371","wildlife diseases",1
+"4372","wildlife tracking collars",1
+"4373","Will Wright",1
+"4374","William “Bro” Adams",1
+"4376","william coulter",1
+"4377","William Doyle",1
+"4378","William Dunbar",1
+"4379","william everson",1
+"4380","William Satterthwaite",1
+"4381","William Shipley",1
+"4382","William Sullivan",1
+"4383","William T. Doyle",1
+"4384","william Whyte award",1
+"4385","william winant",1
+"4386","wilmers",1
+"4387","Wilmers",1
+"4388","wind power",1
+"4390","winifred Frick",1
+"4392","winter",1
+"4393","winter curtailment",1
+"4395","wirls",1
+"4396","wisconsin",1
+"4398","WNV",1
+"4399","WNV transmission",1
+"4401","women at work retreat",1
+"4402","women in astronomy",1
+"4405","Women in engineering",1
+"4406","Women in Engineering",1
+"4410","women land owners",1
+"4413","Women's Club",1
+"4414","women's history",1
+"4415","Women's Rubgy",1
+"4417","Women's studies",1
+"4418","world development",1
+"4419","world rankings",1
+"4420","world series",1
+"4421","world toilet organization",1
+"4422","world toilet summit",1
+"4424","wrasses",1
+"4425","wreath sale",1
+"4427","writers life",1
+"4428","writing program",1
+"4430","Xylem",1
+"4431","yager",1
+"4432","Yair Dalal",1
+"4433","yamashita",1
+"4435","year",1
+"4437","year-end",1
+"4438","Yeltsin",1
+"4439","Yen Phan",1
+"4440","yethzell diaz",1
+"4443","yiwei wang",1
+"4444","yolanda diaz-houston",1
+"4445","Yosemite bears",1
+"4446","Yosemite search",1
+"4447","young universities",1
+"4448","Your Original Social Network",1
+"4449","youtube",1
+"4451","Yudof",1
+"4452","Zach Sanborn",1
+"4453","zehr",1
+"4454","Zelaya",1
+"4457","Zimride",1
+"4458","zipcar",1
+"4459","Zipcar",1
+"4460","zoonotic diseases",1
