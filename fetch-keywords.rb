@@ -1,12 +1,11 @@
 #!/Users/raknight/.rbenv/shims/ruby
 
-## @title 				fetch-keywords.rb
-## @version 			1.0
-## @date 					08 May 2015
-## @author 				Rob Knight
-## @description		Fetches the keywords from an archive of UC Santa Cruz
-## 								news articles. 
-## @param					year (4-digit string; ex: "2010")
+## @title fetch-keywords.rb
+## @version 1.0
+## @date 08 May 2015
+## @author Rob Knight
+## @description	Fetches the keywords from an archive of UC Santa Cruz news articles. 
+## @param year (4-digit string; ex: "2010")
 
 require "open-uri"
 require "nokogiri"
